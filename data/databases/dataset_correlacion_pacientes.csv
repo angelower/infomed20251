@@ -1,0 +1,1001 @@
+id_paciente,numero_historia_clinica,numero_documento,nombres,apellidos,genero,edad,numero_comorbilidades,fecha_ingreso,fecha_egreso,dias_estancia,costo_hospitalario,tipo_admision,diagnostico_principal,tipo_seguro
+1,85822412,6196439534,Cristian,Gilabert Aller,Mujer,36.0,0,2024-01-03,2024-01-11,8.0,10100000,URGENTE,N39 - Infección urinaria,Subsidiado
+2,14942603,8547119184,Nerea,Zurita Tejedor,Hombre,54.0,3,2024-07-17,2024-07-20,3.0,4300000,Urgente,I50 - Insuficiencia cardíaca,CONTRIBUTIVO
+3,3356886,9901532741,Salomé,Abascal Mármol,Hombre,71.0,2,2024-08-08,2024-08-11,3.0,4000000,URGENTE,E11 - Diabetes mellitus tipo 2,Contributivo
+4,99529223,2667292043,Brunilda,Fortuny Castrillo,Hombre,74.0,5,2024-04-19,2024-04-23,4.0,5400000,Urgente,K35 - Apendicitis aguda,Contributivo
+5,36913810,3178659381,Glauco,Niño Elías,Mujer,39.0,2,2024-06-02,2024-06-05,3.0,5200000,Urgente,J18 - Neumonía,SUBSIDIADO
+6,32868828,9482376845,Pío,Morales Barranco,Mujer,43.0,1,2024-01-10,2024-01-15,5.0,6500000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+7,29958838,5201313620,Máximo,Almeida Coloma,Mujer,41.0,1,2024-08-20,2024-08-23,3.0,3100000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+8,18728463,2836517266,Haroldo,Cifuentes Cantero,Hombre,72.0,3,2024-11-22,2024-11-24,,3000000,Urgente,I20 - Angina de pecho,Subsidiado
+9,98847493,674555072,Zacarías,Zorrilla Patiño,Hombre,67.0,4,2024-08-10,2024-08-15,5.0,6200000,urgente,I10 - Hipertensión esencial,contributivo
+10,13756669,9336458105,Danilo,Belmonte Pereira,Hombre,51.0,2,2024-09-01,2024-09-03,2.0,2700000,Urgente,N39 - Infección urinaria,Subsidiado
+11,90825067,322401182,Juan Francisco,Priego Cabrero,Mujer,72.0,1,2024-02-14,2024-02-18,4.0,5500000,Urgente,K35 - Apendicitis aguda,
+12,99410741,4306459450,Herminia,Navarro Matas,Otro,70.0,4,2024-03-09,2024-03-15,6.0,7400000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+13,73197857,6845366946,Rosalía,Mora Cerezo,Hombre,70.0,2,2024-12-12,2024-12-18,6.0,8100000,Urgente,K35 - Apendicitis aguda,
+14,11668732,1250949136,Amelia,Criado Rueda,Mujer,55.0,3,2024-07-12,2024-07-14,2.0,2600000,Urgente,I10 - Hipertensión esencial,Subsidiado
+15,79254563,5289150149,Belén,Torrens Molins,Mujer,26.0,0,2024-01-13,2024-01-17,4.0,5900000,Urgente,I20 - Angina de pecho,Contributivo
+16,56629388,7331319481,Feliciana,Dávila Palacios,Mujer,78.0,4,2024-01-19,2024-01-22,3.0,3800000,Urgente,K35 - Apendicitis aguda,Contributivo
+17,4265799,1950049698,Matías,Godoy Echevarría,Mujer,67.0,4,2024-09-07,2024-09-11,4.0,6100000,Urgente,J45 - Asma,SUBSIDIADO
+18,3999315,2952295757,Edelmira,Pineda Melero,Hombre,74.0,4,2024-06-18,2024-06-21,3.0,4200000,Urgente,I10 - Hipertensión esencial,Contributivo
+19,12575562,8263135031,Román,Mariño Castejón,Mujer,35.0,0,2024-05-03,2024-05-17,14.0,13800000,Urgente,I10 - Hipertensión esencial,subsidiado
+20,29345092,4010075517,Emiliana,Elías Abellán,Mujer,68.0,3,2024-07-17,2024-07-25,8.0,9500000,Urgente,N39 - Infección urinaria,Subsidiado
+21,31227216,1825957977,Ruben,Posada Antúnez,Hombre,,3,2024-08-25,2024-08-31,6.0,7200000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+22,67827638,2338877621,Diana,Espada Monreal,Mujer,30.0,0,2024-09-09,2024-09-13,4.0,6000000,programado,I20 - Angina de pecho,SUBSIDIADO
+23,80801586,2781569954,Danilo,Giner Calvet,Mujer,68.0,2,2024-10-22,2024-10-30,8.0,10100000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+24,3561597,8196564761,Pablo,Valderrama Chico,Mujer,63.0,3,2024-10-04,2024-10-08,4.0,5700000,Urgente,N39 - Infección urinaria,Contributivo
+25,75329037,3550353803,Pastor,Muñoz Bermejo,Mujer,31.0,0,2024-03-04,2024-03-17,13.0,13700000,Urgente,J45 - Asma,Contributivo
+26,26687537,306702926,Ramona,Gárate Oliver,Hombre,64.0,1,2024-07-12,2024-07-21,9.0,9700000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+27,96102525,9911117251,Zacarías,Montenegro Diez,Mujer,70.0,5,2024-06-18,2024-06-22,4.0,5700000,URGENTE,J18 - Neumonía,Contributivo
+28,87226012,5534540349,Esmeralda,Borrego Narváez,Hombre,63.0,3,2024-06-25,2024-07-07,12.0,15500000,Urgente,J45 - Asma,Subsidiado
+29,94130244,4829062179,Francisco Jose,Salom Alberdi,Hombre,45.0,2,2024-03-07,2024-03-11,4.0,5500000,Programado,I50 - Insuficiencia cardíaca,
+30,73140807,7252816758,Odalys,Lara Gallego,Mujer,27.0,0,2024-10-17,2024-10-31,14.0,13000000,Programado,I20 - Angina de pecho,contributivo
+31,56306997,7300300577,Ignacia,Iborra Bauzà,Hombre,33.0,0,2024-07-17,2024-07-29,12.0,11500000,Urgente,I10 - Hipertensión esencial,Subsidiado
+32,29587039,8343730920,Julieta,Ordóñez Jerez,Mujer,31.0,1,2024-01-02,2024-01-08,6.0,7500000,Urgente,I20 - Angina de pecho,Subsidiado
+33,60291817,6415801613,Nereida,Campoy Abella,Mujer,82.0,4,2024-01-05,2024-01-06,1.0,1600000,Urgente,J45 - Asma,Contributivo
+34,79089901,8935429720,Manuel,Asensio Polo,Hombre,36.0,2,2024-12-11,2024-12-16,5.0,6700000,Urgente,J18 - Neumonía,subsidiado
+35,37338124,9974295239,Zaida,Ríos Rivas,Otro,78.0,2,2024-08-17,2024-08-19,2.0,3300000,Urgente,E11 - Diabetes mellitus tipo 2,contributivo
+36,872248,1075321966,Encarnacion,Delgado Riba,Hombre,53.0,1,2024-08-05,2024-08-08,3.0,3600000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+37,21429110,392245997,Dominga,Ureña Pinedo,Mujer,37.0,0,2024-10-17,2024-10-20,3.0,5100000,Urgente,N39 - Infección urinaria,Subsidiado
+38,93702683,4083595988,Cesar,Ortega Perez,Mujer,42.0,0,2024-03-11,2024-03-13,2.0,3200000,Urgente,I20 - Angina de pecho,Subsidiado
+39,56722344,9747475630,Hortensia,Cadenas Tello,Hombre,35.0,1,2024-10-11,2024-10-16,5.0,6200000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+40,45667651,3248149900,Eloy,Gomis Cánovas,Mujer,78.0,3,2024-03-13,2024-03-16,3.0,4100000,Programado,I50 - Insuficiencia cardíaca,Subsidiado
+41,37295260,7093179263,Matías,Sanmiguel Beltrán,Mujer,30.0,0,2024-10-24,2024-10-28,4.0,5200000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+42,20868105,8229469952,Desiderio,Aragonés Mariño,Hombre,82.0,3,2024-05-19,2024-05-22,3.0,4800000,URGENTE,J18 - Neumonía,contributivo
+43,28898923,6808938880,Jorge,Almagro Montalbán,Mujer,90.0,4,2024-06-17,2024-06-23,,8100000,Urgente,I20 - Angina de pecho,contributivo
+44,45176955,4686850445,Marcos,Julián Calvo,Hombre,64.0,2,2024-09-18,2024-09-24,6.0,6000000,Urgente,K35 - Apendicitis aguda,Subsidiado
+45,13718431,5789448659,Demetrio,Benavent Nogués,Mujer,63.0,3,2024-08-23,2024-08-27,4.0,5600000,Urgente,J45 - Asma,subsidiado
+46,12448136,5726515966,Gervasio,Domínguez Perez,Hombre,82.0,3,2024-10-10,2024-10-17,7.0,8300000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+47,50992979,2878201524,Raúl,Cuevas Benavides,Mujer,83.0,2,2024-08-27,2024-09-06,,11600000,Urgente,J18 - Neumonía,contributivo
+48,12981052,3683935600,Joaquina,Buendía Neira,Hombre,62.0,4,2024-01-12,2024-01-13,1.0,1800000,Urgente,I50 - Insuficiencia cardíaca,CONTRIBUTIVO
+49,48181396,5711463258,Epifanio,Tolosa Anguita,Hombre,31.0,1,2024-06-22,2024-06-25,3.0,3700000,URGENTE,K35 - Apendicitis aguda,Subsidiado
+50,46164955,7274273035,Ariadna,Rosado Cózar,Mujer,65.0,4,2024-02-14,2024-02-16,2.0,3400000,Urgente,K35 - Apendicitis aguda,Contributivo
+51,81030736,9827820607,Román,Rovira Crespo,Otro,54.0,1,2024-10-10,2024-10-13,3.0,4600000,Urgente,J45 - Asma,Subsidiado
+52,35503389,8354542654,Silvio,Baeza Cadenas,Hombre,58.0,1,2024-12-28,2024-12-29,1.0,1400000,URGENTE,E11 - Diabetes mellitus tipo 2,Subsidiado
+53,5831819,2362646960,Débora,Muñoz Fuertes,Hombre,57.0,3,2024-12-21,2024-12-22,1.0,2800000,urgente,J18 - Neumonía,Subsidiado
+54,97942942,1953462417,Emiliano,Falcón Recio,Hombre,28.0,0,2024-01-20,2024-01-23,3.0,3300000,Urgente,J45 - Asma,subsidiado
+55,61662963,5645808194,Consuelo,Lara Lucena,Hombre,34.0,0,2024-08-09,2024-08-12,3.0,4800000,Urgente,K35 - Apendicitis aguda,
+56,71971316,1388450337,Rodolfo,Martorell Gámez,Hombre,36.0,2,2024-11-26,2024-12-07,11.0,10400000,Programado,I50 - Insuficiencia cardíaca,
+57,16753883,4243939720,Teo,Báez Ayala,Mujer,83.0,2,2024-10-19,2024-10-24,5.0,5700000,Urgente,J45 - Asma,Contributivo
+58,50806024,6625389037,Gilberto,Pozo Tudela,Mujer,27.0,2,2024-04-24,2024-05-01,7.0,9500000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+59,10576383,1774884818,Amanda,Corral Ballester,Mujer,77.0,2,2024-01-19,2024-02-18,30.0,30700000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+60,74093639,9395595474,Fabiola,Palomo Acevedo,Mujer,65.0,4,2024-08-06,2024-08-19,13.0,14200000,URGENTE,J45 - Asma,Subsidiado
+61,39349722,7543865915,Brígida,Roma Bonilla,Mujer,34.0,0,2024-09-21,2024-09-26,5.0,6800000,Urgente,J18 - Neumonía,Subsidiado
+62,84374605,6981077394,Joaquina,Mariño Tenorio,Mujer,40.0,1,2024-12-20,2024-12-23,3.0,4100000,programado,E11 - Diabetes mellitus tipo 2,subsidiado
+63,83016315,3264134512,Zaira,Flores Caballero,Hombre,56.0,2,2024-07-05,2024-07-08,3.0,5300000,,J18 - Neumonía,Subsidiado
+64,48537831,5169243284,Filomena,Amigó Gabaldón,Mujer,38.0,1,2024-11-08,2024-11-14,6.0,7500000,urgente,J18 - Neumonía,SUBSIDIADO
+65,77490893,2358880404,Fulgencio,Donaire Manzanares,Mujer,36.0,2,2024-01-19,2024-01-22,3.0,5100000,Urgente,J18 - Neumonía,Subsidiado
+66,25808537,8279291478,Catalina,Bilbao Sáenz,Hombre,38.0,1,2024-12-04,2024-12-06,2.0,3800000,Urgente,J45 - Asma,SUBSIDIADO
+67,94566031,7293928340,Flavio,Carlos Mendez,Mujer,70.0,4,2024-04-01,2024-04-04,3.0,3200000,Programado,E11 - Diabetes mellitus tipo 2,Subsidiado
+68,9335534,521521078,Amelia,Puga Sotelo,Hombre,92.0,3,2024-08-11,2024-08-17,6.0,7500000,Urgente,J45 - Asma,Contributivo
+69,6150444,9617709372,Luis,Torrijos Landa,Mujer,61.0,5,2024-07-05,2024-07-12,7.0,7900000,Urgente,J45 - Asma,
+70,88753260,4975196341,Enrique,Bou Ponce,Otro,62.0,3,2024-07-23,2024-08-06,14.0,17100000,Urgente,J45 - Asma,Subsidiado
+71,30587988,2365835550,Glauco,Esteban Peláez,Hombre,61.0,4,2024-04-14,2024-04-19,5.0,4800000,Urgente,K35 - Apendicitis aguda,subsidiado
+72,38840994,6666869046,Maxi,Pizarro Peiró,Mujer,30.0,0,2024-09-25,2024-10-05,10.0,12200000,Urgente,I20 - Angina de pecho,Subsidiado
+73,10709497,400330495,Purificación,Estévez Salinas,Mujer,29.0,1,2024-10-16,2024-10-20,4.0,6000000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+74,31244663,3921003983,Virgilio,Arribas Lago,Hombre,79.0,5,2024-12-24,2024-12-28,4.0,4500000,Urgente,K35 - Apendicitis aguda,Subsidiado
+75,13556182,9094447843,Estefanía,Sabater Sola,Hombre,46.0,4,2024-01-23,2024-01-27,4.0,5200000,Urgente,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+76,51019678,3574027737,Balduino,Lago Gonzalo,Hombre,62.0,3,2024-03-17,2024-03-22,5.0,5700000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+77,37308985,7372755146,Rosenda,Leiva Barrio,Hombre,28.0,1,2024-04-18,2024-04-26,8.0,9700000,Urgente,I10 - Hipertensión esencial,contributivo
+78,60855700,5469318275,Plinio,Corbacho Caballero,Mujer,72.0,4,2024-06-22,2024-06-25,3.0,3700000,urgente,I10 - Hipertensión esencial,SUBSIDIADO
+79,85320121,7880079328,Agapito,Boada Núñez,Mujer,62.0,3,2024-08-17,2024-08-19,2.0,2900000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+80,48966946,8505085936,Amada,Riba Gordillo,Mujer,74.0,3,2024-07-11,2024-07-20,9.0,11800000,Urgente,J45 - Asma,subsidiado
+81,21831063,5341783555,Elías,Barrera Pombo,Hombre,70.0,3,2024-03-15,2024-03-23,8.0,8800000,Programado,N39 - Infección urinaria,contributivo
+82,49684848,2367665472,Guiomar,Yáñez Riquelme,Hombre,52.0,3,2024-09-11,2024-09-22,11.0,11700000,Urgente,I50 - Insuficiencia cardíaca,Contributivo
+83,47683626,1647489402,Ofelia,Taboada Gutiérrez,Mujer,83.0,4,2024-09-12,2024-09-15,3.0,4000000,URGENTE,E11 - Diabetes mellitus tipo 2,Subsidiado
+84,28119557,3776677517,Rodrigo,Tamayo Martínez,Mujer,49.0,2,2024-11-25,2024-11-29,4.0,6200000,Programado,N39 - Infección urinaria,Contributivo
+85,89949389,3710967433,Chita,Bermúdez Prat,Mujer,61.0,4,2024-12-22,2024-12-31,,12000000,urgente,I20 - Angina de pecho,subsidiado
+86,35833156,6077131430,Anselma,Arana Vallés,Mujer,64.0,2,2024-11-26,2024-11-29,3.0,4600000,Urgente,I20 - Angina de pecho,Contributivo
+87,94196727,6475684019,Fortunata,Villanueva Colom,Hombre,37.0,2,2024-12-09,2024-12-16,7.0,7300000,URGENTE,I50 - Insuficiencia cardíaca,Contributivo
+88,91744214,3524233168,Ana Belén,Carreño Sanchez,Hombre,71.0,5,2024-10-16,2024-10-20,4.0,4700000,,I10 - Hipertensión esencial,Subsidiado
+89,86977837,9804718777,Sebastian,Duran Diego,Hombre,74.0,1,2024-04-08,2024-04-14,6.0,7600000,Urgente,J45 - Asma,Contributivo
+90,9583482,4933179746,Isidora,Galán Fernández,Mujer,88.0,2,2024-05-18,2024-05-20,2.0,2900000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+91,81756179,6608153267,Amparo,Cases Arnau,Mujer,66.0,2,2024-05-08,2024-05-13,5.0,5100000,Urgente,N39 - Infección urinaria,Subsidiado
+92,85225343,5777263354,Severo,Roda Bermudez,Hombre,28.0,1,2024-05-25,2024-06-04,10.0,12200000,Urgente,N39 - Infección urinaria,Subsidiado
+93,22969840,6628981661,Leocadia,Rozas Franch,Hombre,23.0,0,2024-05-23,2024-05-31,8.0,9400000,Urgente,I50 - Insuficiencia cardíaca,Contributivo
+94,71691040,2995732958,Priscila,Coloma Jordá,Hombre,60.0,3,2024-04-23,2024-04-25,2.0,3100000,Urgente,I20 - Angina de pecho,Subsidiado
+95,97861742,6750819485,Vicente,Montenegro Bautista,Hombre,67.0,4,2024-12-16,2024-12-29,13.0,15400000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+96,32857966,7625905455,Amaya,Bonet Pons,Hombre,85.0,5,2024-06-16,2024-06-26,10.0,11400000,Urgente,J18 - Neumonía,Contributivo
+97,21931511,4482431018,Florencio,Puerta Moreno,Hombre,30.0,1,2024-06-18,2024-06-20,2.0,4000000,Urgente,J45 - Asma,Subsidiado
+98,62043515,7493451569,Celestino,Llorente Vizcaíno,Mujer,70.0,4,2024-12-09,2024-12-12,3.0,4400000,Urgente,N39 - Infección urinaria,Subsidiado
+99,50929647,7779941999,Clara,Sedano Alberola,Mujer,34.0,1,2024-05-04,2024-05-06,2.0,2800000,Programado,N39 - Infección urinaria,Subsidiado
+100,36231783,4212581851,Américo,Yáñez Rivas,Mujer,44.0,2,2024-10-22,2024-10-28,6.0,6600000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+101,85899313,158998032,Natalia,Capdevila Ribas,Mujer,93.0,5,2024-09-13,2024-09-16,3.0,4900000,Urgente,J45 - Asma,subsidiado
+102,92363534,6829772942,María,Conde Colomer,Hombre,30.0,1,2024-07-27,2024-07-28,1.0,2100000,,I50 - Insuficiencia cardíaca,Subsidiado
+103,74752529,3735334423,Isidro,Cabrera Camacho,Mujer,31.0,0,2024-06-25,2024-06-29,4.0,6400000,Urgente,I10 - Hipertensión esencial,CONTRIBUTIVO
+104,29476249,1891100776,Luís,Cabrero Macias,Hombre,78.0,4,2024-03-10,2024-03-18,8.0,10000000,urgente,J45 - Asma,Contributivo
+105,91887369,1962491159,Anacleto,Núñez Reig,Hombre,74.0,4,2024-01-10,2024-01-15,,6200000,Programado,I10 - Hipertensión esencial,Subsidiado
+106,43524491,3102872611,Leonardo,Laguna Piñol,Mujer,49.0,2,2024-12-03,2024-12-10,7.0,9200000,Urgente,N39 - Infección urinaria,Subsidiado
+107,7507864,662976399,Jafet,Torralba Suárez,Mujer,73.0,3,2024-06-15,2024-06-20,5.0,6200000,Programado,I20 - Angina de pecho,subsidiado
+108,30742311,8457665185,Brígida,Arcos Dueñas,Hombre,64.0,5,2024-11-09,2024-11-17,8.0,10900000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+109,4308421,7270110908,Luis,Llorens Quintana,Mujer,73.0,4,2024-12-16,2024-12-22,,6800000,,J45 - Asma,Subsidiado
+110,42339391,2791027186,Florentino,Cobo Querol,Mujer,43.0,2,2024-04-07,2024-04-11,4.0,5300000,Urgente,K35 - Apendicitis aguda,Subsidiado
+111,53843426,7953271391,Mercedes,Arias Priego,Mujer,41.0,1,2024-09-09,2024-09-14,5.0,6200000,Programado,J45 - Asma,Contributivo
+112,35935572,9949983890,Zacarías,Muñoz Gámez,Mujer,73.0,5,2024-09-23,2024-10-05,12.0,12900000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+113,8883684,7556573246,Clarisa,Avilés Talavera,Hombre,78.0,2,2024-05-05,2024-05-12,7.0,6800000,Urgente,I10 - Hipertensión esencial,
+114,28317637,8744120054,Manuelita,Leiva Perales,Hombre,79.0,4,2024-02-20,2024-02-22,2.0,3300000,URGENTE,E11 - Diabetes mellitus tipo 2,contributivo
+115,76125617,293864877,María Teresa,Almagro Nebot,Hombre,,3,2024-12-19,2024-12-24,5.0,5500000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+116,96356822,8250327663,María Dolores,Mateo Mercader,Hombre,40.0,3,2024-04-08,2024-04-14,6.0,6100000,Urgente,I20 - Angina de pecho,Subsidiado
+117,42235350,4283911723,Ana Sofía,Lozano Tur,Hombre,66.0,4,2024-01-22,2024-01-26,4.0,5000000,Programado,J18 - Neumonía,Contributivo
+118,28538251,3207337120,Carmela,Cabello Goñi,Mujer,36.0,0,2024-09-08,2024-09-09,1.0,2100000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+119,87971488,3747699292,Ariadna,Cañizares Mas,Hombre,44.0,2,2024-11-08,2024-11-10,2.0,3900000,Urgente,I50 - Insuficiencia cardíaca,Contributivo
+120,67005685,1905584866,Daniel,Salazar Montesinos,Hombre,59.0,2,2024-01-04,2024-01-07,3.0,3700000,Urgente,E11 - Diabetes mellitus tipo 2,subsidiado
+121,53100814,7275679594,Constanza,Leon Riera,Hombre,37.0,0,2024-07-11,2024-07-25,14.0,13800000,Urgente,J18 - Neumonía,Contributivo
+122,86282117,3880176825,Danilo,Borrell Expósito,Hombre,64.0,3,2024-12-16,2024-12-22,,7400000,Urgente,N39 - Infección urinaria,CONTRIBUTIVO
+123,61586053,4492496998,Julio,Sala Galván,Mujer,35.0,1,2024-02-22,2024-02-23,1.0,1600000,Urgente,J18 - Neumonía,contributivo
+124,19175900,3419410162,Matilde,Ramírez Tormo,Mujer,80.0,4,2024-03-01,2024-03-05,4.0,5500000,Urgente,I20 - Angina de pecho,contributivo
+125,35551614,5554972315,Candelaria,Villalonga Pereira,Mujer,69.0,3,2024-09-06,2024-09-17,11.0,11600000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+126,18740864,5904897514,Palmira,Barbero Villalba,Mujer,68.0,4,2024-07-21,2024-07-24,3.0,4300000,Programado,K35 - Apendicitis aguda,Subsidiado
+127,33101783,625217504,Quique,Cuenca Bastida,Hombre,54.0,2,2024-08-16,2024-08-25,9.0,9200000,programado,N39 - Infección urinaria,subsidiado
+128,99990728,6576309274,Candela,Merino Velázquez,Hombre,40.0,0,2024-11-07,2024-11-08,1.0,2700000,Urgente,I50 - Insuficiencia cardíaca,Contributivo
+129,75345555,3403845222,Pacífica,Quintanilla Cerdá,Mujer,40.0,1,2024-05-11,2024-05-12,1.0,2500000,Urgente,I10 - Hipertensión esencial,contributivo
+130,72340307,730074215,Maristela,Zamora Andres,Hombre,52.0,2,2024-05-21,2024-05-31,10.0,11100000,Programado,I20 - Angina de pecho,Subsidiado
+131,35264581,8929101065,Ariel,Durán Fernández,Mujer,64.0,5,2024-01-25,2024-01-28,3.0,3300000,Urgente,E11 - Diabetes mellitus tipo 2,contributivo
+132,78461803,8035194895,Martirio,Font Barco,Mujer,70.0,6,2024-02-21,2024-02-25,4.0,4600000,Urgente,E11 - Diabetes mellitus tipo 2,
+133,57503414,5329323383,Loida,Ibañez Aparicio,Mujer,36.0,1,2024-10-08,2024-10-13,5.0,6300000,Programado,E11 - Diabetes mellitus tipo 2,CONTRIBUTIVO
+134,78320463,614685938,Valero,Sastre Ayuso,Mujer,47.0,2,2024-09-24,2024-09-30,6.0,8200000,urgente,J45 - Asma,contributivo
+135,53606628,5385791669,Carina,Palomo Flor,Hombre,67.0,1,2024-12-28,2024-12-29,1.0,2500000,urgente,N39 - Infección urinaria,Subsidiado
+136,48586340,9686554442,Isaías,Lledó Pedrosa,Mujer,70.0,4,2024-01-06,2024-01-09,3.0,4300000,urgente,N39 - Infección urinaria,Subsidiado
+137,29436733,7750840032,Teodoro,Simó Vazquez,Hombre,74.0,3,2024-07-27,2024-08-01,5.0,7300000,Urgente,I20 - Angina de pecho,Subsidiado
+138,18566572,8165632300,Cristian,Puente Casals,Hombre,36.0,0,2024-03-02,2024-03-08,6.0,6900000,Urgente,I20 - Angina de pecho,
+139,68387461,678500147,Magdalena,Anglada Herranz,Mujer,31.0,0,2024-07-26,2024-07-28,2.0,2300000,Urgente,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+140,66238574,6818568548,Paula,Perales Torrijos,Otro,69.0,2,2024-08-06,2024-08-10,4.0,5200000,Urgente,N39 - Infección urinaria,Contributivo
+141,12201654,5369130994,Francisca,Salmerón Elías,Otro,,1,2024-12-28,2024-12-31,3.0,5000000,Urgente,N39 - Infección urinaria,contributivo
+142,6323852,7925520026,Maricruz,Sánchez Olmo,Mujer,57.0,3,2024-05-02,2024-05-07,5.0,6000000,urgente,I20 - Angina de pecho,SUBSIDIADO
+143,14716857,2075362821,Jose Miguel,Ocaña Cárdenas,Hombre,,1,2024-01-10,2024-01-20,10.0,9500000,urgente,J45 - Asma,Subsidiado
+144,20514014,5313758032,Manuel,Jordán Botella,Mujer,29.0,2,2024-10-20,2024-10-24,4.0,5400000,Urgente,I10 - Hipertensión esencial,Subsidiado
+145,84214382,6751356568,Sandra,López Amorós,Mujer,79.0,6,2024-02-11,2024-02-13,2.0,2600000,urgente,I10 - Hipertensión esencial,Subsidiado
+146,21472420,6763765757,Anacleto,Pomares Ayala,Mujer,52.0,1,2024-05-15,2024-05-18,3.0,3100000,URGENTE,K35 - Apendicitis aguda,Subsidiado
+147,91332642,1268006448,Vinicio,Cánovas Gargallo,Hombre,62.0,1,2024-11-18,2024-12-01,13.0,14400000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+148,56661351,7122042835,Juan José,Giralt Gomis,Hombre,,1,2024-09-16,2024-09-18,2.0,3800000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+149,80048665,1178884276,Pablo,Gabaldón Leon,Mujer,83.0,4,2024-03-28,2024-03-30,2.0,3000000,Urgente,I10 - Hipertensión esencial,Subsidiado
+150,8526544,3431078106,Rosalva,Recio Vilanova,Mujer,67.0,6,2024-09-15,2024-09-19,4.0,5200000,Urgente,K35 - Apendicitis aguda,Subsidiado
+151,51642594,1513206988,Olga,Almagro Agullo,Hombre,30.0,1,2024-05-07,2024-05-11,4.0,5200000,Urgente,J18 - Neumonía,SUBSIDIADO
+152,51220073,2734252963,Chucho,Sáez Catalán,Mujer,50.0,3,2024-02-11,2024-02-14,3.0,4200000,Urgente,I50 - Insuficiencia cardíaca,subsidiado
+153,79978790,6961674558,Valentín,Duran Aguirre,Mujer,53.0,2,2024-03-24,2024-03-25,1.0,3000000,Urgente,N39 - Infección urinaria,subsidiado
+154,62820592,3600630513,Rosenda,Goicoechea Iniesta,Mujer,46.0,3,2024-08-21,2024-08-27,6.0,7500000,Urgente,I10 - Hipertensión esencial,subsidiado
+155,71016525,2698305085,Desiderio,Mayoral Llopis,Otro,72.0,5,2024-05-23,2024-05-28,5.0,4700000,Programado,J45 - Asma,CONTRIBUTIVO
+156,33744231,2776011793,Maura,Roda Peñas,Mujer,,2,2024-03-01,2024-03-08,7.0,6700000,Urgente,J18 - Neumonía,Subsidiado
+157,74252722,1893321208,Octavia,Oller Segovia,Hombre,,2,2024-12-11,2024-12-16,5.0,7100000,urgente,K35 - Apendicitis aguda,SUBSIDIADO
+158,1540956,6784217828,Jordi,Iniesta Gibert,Hombre,,5,2024-05-19,2024-05-31,12.0,12000000,,I10 - Hipertensión esencial,Contributivo
+159,91306093,3145461251,Hugo,Soler Matas,Mujer,70.0,5,2024-11-25,2024-12-03,8.0,7800000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+160,96733645,5562457052,Obdulia,Viñas Puerta,Hombre,62.0,5,2024-04-06,2024-04-13,7.0,7400000,Programado,I10 - Hipertensión esencial,contributivo
+161,15374874,7505373158,Malena,Calatayud Aguilera,Mujer,55.0,1,2024-10-28,2024-11-07,10.0,10300000,Urgente,I20 - Angina de pecho,Subsidiado
+162,91497616,754368373,Dionisia,Vidal Perelló,Hombre,41.0,2,2024-11-13,2024-11-18,5.0,6800000,Urgente,J18 - Neumonía,subsidiado
+163,72070937,8467483275,Jennifer,Lumbreras Martín,Hombre,74.0,5,2024-07-17,2024-07-21,4.0,4000000,urgente,I10 - Hipertensión esencial,Subsidiado
+164,35812670,8218363978,Pascual,Campoy Tirado,Hombre,34.0,0,2024-06-03,2024-06-09,6.0,6400000,Urgente,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+165,86028436,3566852761,Rosalinda,Bartolomé Navarrete,Mujer,49.0,2,2024-07-22,2024-07-23,1.0,2600000,Urgente,J45 - Asma,Subsidiado
+166,45657579,7758809005,Leocadia,Lloret Morcillo,Hombre,57.0,1,2024-02-06,2024-02-11,5.0,6300000,Urgente,I20 - Angina de pecho,Subsidiado
+167,14972279,4789617427,Emilia,Lluch Julián,Mujer,52.0,3,2024-03-16,2024-03-20,,4900000,URGENTE,I20 - Angina de pecho,SUBSIDIADO
+168,39392920,4135595227,Evelia,Martín Fabra,Mujer,29.0,1,2024-06-08,2024-06-14,6.0,6300000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+169,58353204,4151086814,Tiburcio,Conesa Villar,Mujer,67.0,4,2024-01-09,2024-01-18,9.0,10200000,Urgente,J45 - Asma,Subsidiado
+170,21227574,8503787171,Fito,Hernandez Barberá,Hombre,70.0,2,2024-07-08,2024-07-15,7.0,7900000,Urgente,I20 - Angina de pecho,Contributivo
+171,60897765,1570991899,Encarnación,Quintero Montenegro,Hombre,33.0,1,2024-08-25,2024-08-28,3.0,4100000,Urgente,I50 - Insuficiencia cardíaca,
+172,435578,7690920484,Emilio,Chaves Amigó,Mujer,71.0,5,2024-05-11,2024-05-19,8.0,9900000,urgente,J18 - Neumonía,Subsidiado
+173,96917555,4354747485,Milagros,Valencia Marqués,Hombre,55.0,0,2024-05-19,2024-06-01,13.0,11800000,Urgente,I50 - Insuficiencia cardíaca,subsidiado
+174,96593904,2304560537,Hilario,Jover Riquelme,Mujer,46.0,1,2024-12-19,2024-12-28,9.0,11200000,Urgente,K35 - Apendicitis aguda,Contributivo
+175,35351479,6248258423,Odalys,Quiroga Pont,Hombre,34.0,0,2024-01-09,2024-01-11,2.0,4100000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+176,67187530,7182649048,Hilario,Aranda Falcó,Mujer,79.0,6,2024-11-12,2024-11-19,7.0,8300000,Programado,J45 - Asma,Subsidiado
+177,23978249,6805633786,Noa,Novoa Girón,Hombre,71.0,2,2024-12-08,2024-12-10,2.0,3600000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+178,68139880,8333490239,Benigno,Tamarit Palmer,Mujer,72.0,6,2024-01-22,2024-01-26,,4100000,URGENTE,I20 - Angina de pecho,SUBSIDIADO
+179,14282218,9055277559,Clotilde,Vendrell Marín,Hombre,73.0,5,2024-02-15,2024-02-21,6.0,7600000,URGENTE,J45 - Asma,contributivo
+180,83926371,5299224734,Pascual,Domínguez Escrivá,Mujer,72.0,5,2024-05-06,2024-05-12,6.0,8500000,Urgente,I20 - Angina de pecho,Contributivo
+181,40056581,8697414638,Berta,Marin Cabanillas,Mujer,40.0,1,2024-07-22,2024-07-31,9.0,9400000,,N39 - Infección urinaria,Subsidiado
+182,85758349,6706193636,Lisandro,Sotelo Castellanos,Mujer,45.0,2,2024-09-23,2024-10-06,13.0,12800000,Urgente,E11 - Diabetes mellitus tipo 2,subsidiado
+183,68137358,9540699468,Edelmira,Jordán España,Hombre,36.0,2,2024-05-23,2024-05-29,6.0,6300000,,I20 - Angina de pecho,contributivo
+184,81734598,8861449701,Bárbara,Narváez Borrell,Hombre,75.0,5,2024-02-21,2024-02-25,4.0,4700000,,I50 - Insuficiencia cardíaca,Subsidiado
+185,26697396,7833399096,Florentino,Girón Padilla,Mujer,67.0,5,2024-05-12,2024-05-13,1.0,2000000,Urgente,N39 - Infección urinaria,CONTRIBUTIVO
+186,20513739,9887831495,Moisés,Godoy Melero,Hombre,,5,2024-10-08,2024-10-19,11.0,13900000,URGENTE,N39 - Infección urinaria,contributivo
+187,50185867,1753617371,Juliana,Rivero Muñoz,Hombre,29.0,1,2024-04-05,2024-04-09,4.0,4500000,Urgente,K35 - Apendicitis aguda,Subsidiado
+188,21682744,600337712,Luís,Peral Juliá,Hombre,86.0,4,2024-08-05,2024-08-10,5.0,5500000,Urgente,N39 - Infección urinaria,contributivo
+189,72394227,4064162365,Luis Miguel,Mariscal Silva,Hombre,67.0,2,2024-08-24,2024-08-29,5.0,7200000,Urgente,N39 - Infección urinaria,Subsidiado
+190,71182864,2115806625,Constanza,Carranza Sosa,Mujer,53.0,4,2024-10-12,2024-10-18,6.0,6300000,Urgente,I10 - Hipertensión esencial,Contributivo
+191,76758,417436465,Juanito,Baeza Belda,Mujer,69.0,5,2024-07-23,2024-07-29,6.0,6500000,urgente,E11 - Diabetes mellitus tipo 2,subsidiado
+192,80388981,4877639950,Rosa,Sureda Ferreras,Hombre,61.0,3,2024-09-16,2024-09-20,4.0,5400000,Urgente,I50 - Insuficiencia cardíaca,subsidiado
+193,43507489,6243352390,Aroa,Vall Carretero,Hombre,76.0,4,2024-09-26,2024-09-30,4.0,5500000,Urgente,J45 - Asma,SUBSIDIADO
+194,65579548,8381721143,Trinidad,Pizarro Martín,Hombre,29.0,0,2024-11-27,2024-11-30,3.0,5000000,URGENTE,I50 - Insuficiencia cardíaca,Contributivo
+195,2614124,8730449971,Iris,Reyes Balaguer,Mujer,63.0,2,2024-04-25,2024-04-28,3.0,3800000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+196,15014631,1591414076,Ofelia,Contreras Cervantes,Mujer,19.0,0,2024-04-22,2024-04-25,3.0,4600000,programado,I10 - Hipertensión esencial,SUBSIDIADO
+197,48718453,6199283151,Claudio,Fonseca Noriega,Hombre,63.0,6,2024-10-28,2024-11-01,4.0,5700000,programado,J18 - Neumonía,Subsidiado
+198,41273847,4082603360,Elpidio,Recio Seco,Hombre,43.0,3,2024-02-17,2024-02-19,2.0,4100000,Urgente,I20 - Angina de pecho,Subsidiado
+199,32138745,7969097897,Maricela,Clemente Molina,Hombre,22.0,0,2024-08-17,2024-08-18,1.0,1800000,Urgente,I20 - Angina de pecho,Subsidiado
+200,7774584,7239941612,Mireia,Escribano Berrocal,Hombre,41.0,2,2024-12-12,2024-12-16,4.0,5700000,urgente,J45 - Asma,subsidiado
+201,32329237,1540492440,Sergio,Torrent Méndez,Hombre,41.0,0,2024-02-19,2024-02-21,2.0,3600000,Urgente,N39 - Infección urinaria,Subsidiado
+202,76149359,6004964045,Zaida,Elorza Millán,Mujer,38.0,0,2024-02-02,2024-02-07,5.0,6000000,Urgente,K35 - Apendicitis aguda,Subsidiado
+203,10570592,1952996248,Benigno,Barco Acuña,Mujer,27.0,0,2024-09-17,2024-09-20,3.0,3900000,urgente,J45 - Asma,Subsidiado
+204,11496211,2846570058,Leonel,Sans Llanos,Hombre,67.0,5,2024-04-19,2024-04-25,6.0,6700000,Urgente,J18 - Neumonía,Subsidiado
+205,98234974,91729577,Roxana,Gallart Domingo,Hombre,67.0,5,2024-09-05,2024-09-07,2.0,2400000,Programado,I20 - Angina de pecho,subsidiado
+206,65228535,7674224347,Gabriela,Cuadrado Tovar,Mujer,56.0,2,2024-03-11,2024-03-12,1.0,2300000,Urgente,K35 - Apendicitis aguda,CONTRIBUTIVO
+207,9289546,2424843951,Edmundo,Borja Castilla,Mujer,83.0,3,2024-09-15,2024-09-19,4.0,5700000,Urgente,J45 - Asma,Subsidiado
+208,71498611,9479668720,Judith,Roura Román,Hombre,76.0,3,2024-02-22,2024-02-25,3.0,4200000,Urgente,K35 - Apendicitis aguda,contributivo
+209,16879290,3735313433,Rosenda,Quintanilla Romeu,Mujer,65.0,4,2024-04-23,2024-04-25,2.0,3500000,programado,I50 - Insuficiencia cardíaca,Contributivo
+210,17232410,4307145891,Eligio,Tejada Pla,Mujer,35.0,2,2024-10-16,2024-10-24,8.0,8900000,Urgente,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+211,88550256,9148246549,Josep,Acuña Arellano,Hombre,70.0,3,2024-02-17,2024-02-19,2.0,3500000,URGENTE,I50 - Insuficiencia cardíaca,SUBSIDIADO
+212,63791320,749459431,Esteban,Flores Perea,Hombre,18.0,0,2024-08-26,2024-08-29,3.0,4200000,Urgente,I10 - Hipertensión esencial,Contributivo
+213,73793389,110724913,Leonor,Alcalá Montserrat,Hombre,65.0,6,2024-01-15,2024-01-24,9.0,9700000,Urgente,N39 - Infección urinaria,Subsidiado
+214,22162965,4358791907,Modesto,Farré Alemán,Mujer,61.0,5,2024-03-17,2024-03-24,7.0,8500000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+215,35575298,9611843047,Patricia,Acosta Ibarra,Hombre,26.0,0,2024-07-15,2024-07-17,2.0,3000000,Urgente,K35 - Apendicitis aguda,Contributivo
+216,70823176,1390587865,Jose Miguel,Gonzalo Ocaña,Mujer,32.0,1,2024-10-02,2024-10-06,4.0,5600000,Urgente,J45 - Asma,SUBSIDIADO
+217,81415657,5043349038,María,Miguel Castelló,Mujer,85.0,3,2024-09-15,2024-09-17,2.0,2900000,Urgente,N39 - Infección urinaria,Contributivo
+218,56792612,225052083,Pía,Calderon Pla,Hombre,40.0,1,2024-11-26,2024-12-04,8.0,9900000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+219,28427073,7480622107,Inmaculada,Vaquero Maza,Hombre,62.0,3,2024-05-24,2024-06-01,8.0,10400000,Programado,J45 - Asma,Contributivo
+220,72383095,2259520140,Rubén,Diego Bas,Hombre,73.0,2,2024-01-13,2024-01-27,14.0,17000000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+221,97969689,3202607993,Amelia,Arroyo Martí,Hombre,,2,2024-05-27,2024-06-13,17.0,16400000,programado,K35 - Apendicitis aguda,Subsidiado
+222,92592466,6340428136,Erasmo,Manso Sarmiento,Hombre,77.0,3,2024-01-24,2024-01-27,3.0,4600000,Urgente,K35 - Apendicitis aguda,Subsidiado
+223,26998038,7636525027,Crescencia,Viña Zamora,Mujer,68.0,4,2024-04-19,2024-04-26,,9500000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+224,95690391,4763350700,Evelia,Nebot Roura,Mujer,29.0,0,2024-02-02,2024-02-03,1.0,1900000,Urgente,E11 - Diabetes mellitus tipo 2,contributivo
+225,41837852,2163970710,Julio César,Cañete Noriega,Mujer,74.0,3,2024-07-12,2024-07-17,5.0,6900000,Urgente,E11 - Diabetes mellitus tipo 2,subsidiado
+226,53551839,8776185998,Eulalia,Trillo Palomar,Mujer,71.0,5,2024-12-03,2024-12-09,6.0,8700000,Urgente,I20 - Angina de pecho,Contributivo
+227,90152297,6534583219,Severino,Fabra Cózar,Otro,76.0,3,2024-09-02,2024-09-04,2.0,2500000,Urgente,K35 - Apendicitis aguda,subsidiado
+228,87225156,4140460939,Remigio,Quintanilla Aliaga,Mujer,40.0,0,2024-02-16,2024-02-19,3.0,4200000,Urgente,N39 - Infección urinaria,
+229,50119651,6019900273,Vito,Gracia Gomez,Hombre,78.0,3,2024-01-10,2024-01-18,8.0,10100000,urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+230,58800797,2946766309,Carlos,Castro Galván,Hombre,30.0,0,2024-07-06,2024-07-12,6.0,7600000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+231,69467853,8202102595,Evita,Almeida Vargas,Hombre,81.0,3,2024-03-25,2024-04-07,13.0,13600000,URGENTE,J45 - Asma,Subsidiado
+232,60597444,4641959772,Narcisa,Dominguez Casal,Hombre,69.0,2,2024-11-24,2024-12-06,12.0,12500000,Urgente,I20 - Angina de pecho,Subsidiado
+233,16240908,2612617557,Silvia,Pazos Arcos,Hombre,88.0,4,2024-11-14,2024-11-15,1.0,2700000,,I50 - Insuficiencia cardíaca,Contributivo
+234,33273328,282103057,María José,Perez Jaume,Hombre,29.0,0,2024-06-13,2024-06-16,3.0,4100000,Urgente,J45 - Asma,Contributivo
+235,30158366,9771119310,Ciro,Atienza Asensio,Mujer,85.0,4,2024-08-28,2024-08-30,2.0,3000000,Urgente,J45 - Asma,Subsidiado
+236,8593410,5691628146,Samuel,Campoy Aller,Hombre,69.0,3,2024-07-13,2024-07-21,8.0,9200000,Urgente,J18 - Neumonía,Subsidiado
+237,45377076,6573691558,Aránzazu,Asensio Carmona,Mujer,29.0,1,2024-02-22,2024-02-28,6.0,7900000,Urgente,I10 - Hipertensión esencial,Subsidiado
+238,2823170,6895255573,Maribel,Riera Saldaña,Mujer,63.0,2,2024-11-28,2024-11-30,2.0,2700000,Urgente,J18 - Neumonía,SUBSIDIADO
+239,78961459,3014119648,Leopoldo,Pinto Casals,Hombre,64.0,4,2024-09-05,2024-09-07,2.0,3400000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+240,74346088,5218484323,Jordana,Iriarte Sánchez,Mujer,38.0,1,2024-11-28,2024-12-08,10.0,11200000,Urgente,K35 - Apendicitis aguda,Subsidiado
+241,30885476,5276339732,Saturnina,Coronado Fuertes,Hombre,73.0,4,2024-06-04,2024-06-07,3.0,3300000,Urgente,I10 - Hipertensión esencial,contributivo
+242,78979095,6242730249,Rafa,Agustí Mascaró,Hombre,62.0,4,2024-03-18,2024-03-19,1.0,2300000,Urgente,I10 - Hipertensión esencial,
+243,29557077,4703357871,Wálter,Rivero Cabrero,Hombre,67.0,5,2024-07-17,2024-07-19,2.0,2600000,Programado,K35 - Apendicitis aguda,Subsidiado
+244,965138,6127904756,Amarilis,Viña Lerma,Mujer,52.0,0,2024-03-24,2024-04-07,,13000000,urgente,I10 - Hipertensión esencial,subsidiado
+245,9528530,7151583833,Nacio,Cerro Riquelme,Mujer,85.0,3,2024-04-27,2024-05-06,9.0,10400000,Urgente,K35 - Apendicitis aguda,
+246,95004803,9245513772,Cándida,Calvo Vidal,Hombre,38.0,0,2024-01-25,2024-01-27,2.0,3400000,Programado,I10 - Hipertensión esencial,Contributivo
+247,84705205,8259157845,Abilio,Carranza Lumbreras,Mujer,68.0,5,2024-01-10,2024-01-15,5.0,5100000,Programado,J45 - Asma,SUBSIDIADO
+248,7901903,288335378,Ruperta,Carbonell Camino,Otro,69.0,5,2024-08-22,2024-08-30,8.0,8800000,Urgente,N39 - Infección urinaria,Subsidiado
+249,30728046,3572433066,María Ángeles,Valenciano Fiol,Otro,39.0,0,2024-12-18,2024-12-19,1.0,2400000,Urgente,I20 - Angina de pecho,Contributivo
+250,9046318,4695387521,Rebeca,Folch Jódar,Hombre,57.0,2,2024-07-18,2024-07-27,9.0,11300000,programado,I20 - Angina de pecho,Subsidiado
+251,4216175,9004675653,Luz,Zabala Franch,Mujer,65.0,5,2024-07-27,2024-08-02,6.0,6400000,Urgente,J18 - Neumonía,Subsidiado
+252,44349361,7468071953,Ciro,Palma Redondo,Mujer,21.0,1,2024-04-08,2024-04-11,3.0,4700000,,J45 - Asma,Subsidiado
+253,9510312,3486522557,Lupe,Marquez Cueto,Hombre,71.0,5,2024-08-12,2024-08-19,7.0,8800000,Urgente,I10 - Hipertensión esencial,subsidiado
+254,69008866,2389594115,Álvaro,Ariza Valderrama,Mujer,74.0,4,2024-03-09,2024-03-15,6.0,6100000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+255,31944441,4819946657,Fabiola,Galiano Terrón,Mujer,31.0,2,2024-04-24,2024-04-30,6.0,6200000,Urgente,K35 - Apendicitis aguda,Subsidiado
+256,37376585,7517413631,Graciana,Muro Guitart,Hombre,47.0,5,2024-02-02,2024-02-07,5.0,7800000,Urgente,J45 - Asma,Subsidiado
+257,89788677,3096932037,José,Acedo Alberto,Hombre,55.0,2,2024-11-14,2024-11-16,2.0,3200000,URGENTE,I10 - Hipertensión esencial,Subsidiado
+258,65151231,8454207717,Pepito,Borrell Cano,Hombre,53.0,1,2024-10-25,2024-10-28,3.0,5000000,programado,I20 - Angina de pecho,Contributivo
+259,28754377,6873709012,Remedios,Uribe Company,Hombre,70.0,2,2024-01-08,2024-01-12,4.0,4500000,Urgente,I20 - Angina de pecho,Subsidiado
+260,72374753,1510308881,Bernardino,Bosch Vidal,Mujer,43.0,1,2024-04-03,2024-04-08,5.0,5700000,Urgente,K35 - Apendicitis aguda,Subsidiado
+261,17758595,913706213,Natalia,Benavides Cadenas,Hombre,48.0,3,2024-02-20,2024-02-27,7.0,8200000,URGENTE,I50 - Insuficiencia cardíaca,
+262,97086737,7115628227,Bienvenida,Jaén Guardia,Otro,31.0,0,2024-01-15,2024-01-30,15.0,14900000,Urgente,I10 - Hipertensión esencial,Contributivo
+263,76644106,4759761714,Rómulo,Saura Marti,Mujer,78.0,2,2024-10-22,2024-10-27,5.0,6800000,Urgente,I10 - Hipertensión esencial,Contributivo
+264,77337818,1578662692,Isaías,Laguna Simó,Hombre,67.0,3,2024-12-28,2025-01-04,7.0,8500000,Urgente,I50 - Insuficiencia cardíaca,subsidiado
+265,63440831,7570333548,Timoteo,Ayllón Cabo,Hombre,33.0,0,2024-01-08,2024-01-16,,11300000,urgente,I50 - Insuficiencia cardíaca,Subsidiado
+266,32614537,2465740756,Paloma,Díaz Ariza,Hombre,42.0,2,2024-12-02,2024-12-09,7.0,6700000,urgente,I50 - Insuficiencia cardíaca,Contributivo
+267,63481353,7761956684,Héctor,Manso Palomino,Hombre,40.0,1,2024-07-15,2024-07-17,2.0,3900000,Urgente,I20 - Angina de pecho,Contributivo
+268,54634663,8702693937,Ana Belén,Milla Rojas,Hombre,22.0,0,2024-04-18,2024-04-29,11.0,14900000,,K35 - Apendicitis aguda,Subsidiado
+269,25556386,1148679234,Julio,Carmona Bustamante,Mujer,46.0,2,2024-04-25,2024-05-05,10.0,11700000,programado,J45 - Asma,contributivo
+270,12660194,5069848439,Mohamed,Arroyo Agustí,Mujer,81.0,4,2024-01-05,2024-01-10,5.0,4900000,Urgente,N39 - Infección urinaria,Subsidiado
+271,13009833,5754503097,Patricia,Chacón Donaire,Hombre,29.0,0,2024-09-10,2024-09-12,,3400000,Urgente,I50 - Insuficiencia cardíaca,CONTRIBUTIVO
+272,88447167,26224160,Loreto,Mulet Pallarès,Hombre,71.0,2,2024-04-27,2024-05-02,5.0,6700000,Urgente,K35 - Apendicitis aguda,Contributivo
+273,57854710,3736031885,Nicolás,Río Ledesma,Hombre,38.0,0,2024-12-19,2024-12-20,1.0,2300000,urgente,J18 - Neumonía,Contributivo
+274,47553014,1721355673,Carla,Buendía Peralta,Hombre,37.0,1,2024-06-19,2024-07-01,,11100000,Urgente,I10 - Hipertensión esencial,contributivo
+275,56851760,9199281572,Crescencia,Noriega España,Hombre,62.0,2,2024-10-25,2024-10-28,3.0,4800000,Urgente,I10 - Hipertensión esencial,
+276,55177213,131671246,Eladio,Carbonell Pérez,Hombre,61.0,2,2024-11-27,2024-12-01,4.0,5700000,Urgente,N39 - Infección urinaria,
+277,62682989,5218955985,Clarisa,Páez Sastre,Hombre,67.0,2,2024-06-08,2024-06-19,11.0,12000000,Urgente,N39 - Infección urinaria,subsidiado
+278,97854904,6098134112,Reyes,Llabrés Pol,Hombre,79.0,4,2024-05-05,2024-05-15,10.0,11500000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+279,7270733,1464137110,Amada,Tejera Robles,Hombre,73.0,5,2024-11-17,2024-11-23,6.0,8300000,Urgente,J18 - Neumonía,Subsidiado
+280,90377459,5884333221,Modesta,Diaz Carbajo,Hombre,32.0,2,2024-04-14,2024-04-27,,13300000,Urgente,J45 - Asma,Contributivo
+281,87705310,7394198376,Olegario,Cazorla Barral,Hombre,41.0,2,2024-05-09,2024-05-11,2.0,3500000,Urgente,N39 - Infección urinaria,Subsidiado
+282,86728778,225953184,Tere,Cuervo Calleja,Mujer,39.0,1,2024-01-18,2024-01-24,6.0,6600000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+283,13209423,2653594796,Isabel,Rico Tolosa,Mujer,44.0,3,2024-10-24,2024-10-26,2.0,3900000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+284,8135295,2894673596,María Belén,Ríos Escudero,Mujer,50.0,3,2024-03-21,2024-03-30,9.0,8400000,Programado,J45 - Asma,
+285,54038913,5463640105,Atilio,Pino Palmer,Hombre,64.0,4,2024-11-14,2024-11-23,9.0,11400000,Programado,I20 - Angina de pecho,Subsidiado
+286,97739173,7137972345,Arturo,Andres Castrillo,Mujer,26.0,0,2024-09-16,2024-09-29,13.0,12600000,Urgente,J18 - Neumonía,Subsidiado
+287,45540424,6193532615,Conrado,Tomas Torrents,Mujer,24.0,0,2024-01-12,2024-01-17,5.0,6600000,urgente,I50 - Insuficiencia cardíaca,Subsidiado
+288,14665841,1173242669,Eugenia,Carbajo Reina,Hombre,79.0,4,2024-11-22,2024-12-08,16.0,18900000,,N39 - Infección urinaria,Contributivo
+289,33374088,4783809766,Miguela,Saez Arteaga,Mujer,63.0,4,2024-07-26,2024-07-28,2.0,3600000,programado,E11 - Diabetes mellitus tipo 2,Subsidiado
+290,25714784,1846465000,Piedad,Barroso Jurado,Hombre,71.0,4,2024-09-11,2024-09-15,4.0,4200000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+291,25529407,9806468924,Ángel,Miralles Alberola,Mujer,67.0,3,2024-12-14,2024-12-16,2.0,2700000,Urgente,I10 - Hipertensión esencial,Subsidiado
+292,71979055,7160279830,Alcides,Zamorano Goicoechea,Mujer,38.0,1,2024-07-05,2024-07-10,5.0,7500000,Urgente,J18 - Neumonía,Subsidiado
+293,60211891,195066088,Edelmiro,Neira Vives,Hombre,35.0,0,2024-05-13,2024-05-15,2.0,3200000,Urgente,I10 - Hipertensión esencial,contributivo
+294,18814949,2574081104,Úrsula,Zabala Bustos,Mujer,55.0,2,2024-03-25,2024-04-03,9.0,11700000,programado,K35 - Apendicitis aguda,Subsidiado
+295,56623995,33015788,Rosa,Roselló Ibarra,Mujer,42.0,3,2024-09-16,2024-09-22,6.0,8200000,Urgente,J18 - Neumonía,subsidiado
+296,24627347,5392415228,Fausto,Tirado Oliva,Hombre,63.0,3,2024-04-28,2024-04-30,2.0,3600000,Urgente,N39 - Infección urinaria,Subsidiado
+297,37385696,1409274786,Valero,Plaza Comas,Hombre,52.0,3,2024-04-10,2024-04-18,8.0,8800000,Urgente,K35 - Apendicitis aguda,subsidiado
+298,62092888,4328166990,Yago,Ballester Alberdi,Mujer,63.0,5,2024-12-05,2024-12-17,12.0,11500000,urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+299,33528453,7503368512,Aarón,Crespo Vega,Hombre,83.0,4,2024-08-02,2024-08-09,7.0,6900000,Urgente,J45 - Asma,Subsidiado
+300,10117988,754603440,Tiburcio,Soria Valcárcel,Mujer,41.0,3,2024-09-14,2024-09-16,2.0,2700000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+301,59476001,3022245086,Hermenegildo,Dalmau Benavides,Mujer,32.0,1,2024-07-18,2024-07-22,4.0,5500000,Programado,N39 - Infección urinaria,Subsidiado
+302,73863413,7757570742,Jennifer,Tur Montes,Hombre,64.0,4,2024-09-05,2024-09-12,7.0,9500000,Urgente,J45 - Asma,Contributivo
+303,13141087,4604529187,Virginia,Hernando Muro,Hombre,32.0,0,2024-07-08,2024-07-12,4.0,4600000,Urgente,I50 - Insuficiencia cardíaca,Contributivo
+304,6789850,4476654128,Eligio,Lobo Ayuso,Hombre,88.0,2,2024-05-07,2024-05-09,2.0,4300000,Programado,K35 - Apendicitis aguda,SUBSIDIADO
+305,87529405,4375461598,Sofía,Vendrell Gisbert,Hombre,71.0,2,2024-06-21,2024-07-01,,10700000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+306,72556484,3956362540,Florentina,Pinedo Quintana,Otro,72.0,2,2024-02-15,2024-02-19,4.0,5400000,Urgente,K35 - Apendicitis aguda,Subsidiado
+307,1980765,7997701619,Marciano,Gutierrez Bermúdez,Hombre,78.0,2,2024-06-03,2024-06-15,12.0,13700000,Urgente,I10 - Hipertensión esencial,Subsidiado
+308,12517517,6767834064,Federico,Segovia Saldaña,Mujer,36.0,1,2024-09-24,2024-09-27,3.0,3500000,URGENTE,N39 - Infección urinaria,Subsidiado
+309,31726318,6757700186,Sandra,Samper Borja,Hombre,32.0,0,2024-04-02,2024-04-06,4.0,5200000,Urgente,K35 - Apendicitis aguda,
+310,22321899,6088949191,Sarita,Valentín Salvador,Mujer,33.0,2,2024-05-13,2024-05-16,3.0,4400000,Programado,I50 - Insuficiencia cardíaca,Subsidiado
+311,54547971,4789633176,Leocadio,Molina Carrera,Mujer,34.0,1,2024-11-20,2024-11-24,4.0,5100000,urgente,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+312,65181648,1394868732,Ciro,Valencia Alemán,Mujer,67.0,3,2024-10-02,2024-10-08,6.0,6700000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+313,64606833,6949795085,Fátima,Calderon Quintanilla,Mujer,75.0,4,2024-02-07,2024-02-09,2.0,4000000,urgente,K35 - Apendicitis aguda,contributivo
+314,28688676,8245348297,Poncio,Revilla Araujo,Otro,68.0,1,2024-10-24,2024-10-26,2.0,3900000,,E11 - Diabetes mellitus tipo 2,Subsidiado
+315,53826716,4673482258,Josué,Abad Bou,Hombre,40.0,2,2024-11-18,2024-11-19,1.0,3000000,Urgente,J45 - Asma,SUBSIDIADO
+316,7869910,3627032705,Celestino,Mayo Verdugo,Hombre,34.0,0,2024-04-16,2024-04-17,1.0,3000000,urgente,I50 - Insuficiencia cardíaca,Contributivo
+317,22097220,5340003593,Ramiro,Gabaldón Sastre,Mujer,68.0,5,2024-04-28,2024-04-30,2.0,2700000,programado,K35 - Apendicitis aguda,SUBSIDIADO
+318,50864911,6824150224,Graciana,Nogueira Parra,Mujer,,0,2024-06-10,2024-06-13,3.0,3700000,Urgente,I10 - Hipertensión esencial,Subsidiado
+319,289289,2250402001,Vera,Ballester Gisbert,Mujer,77.0,3,2024-01-07,2024-01-12,5.0,6400000,Urgente,I10 - Hipertensión esencial,Subsidiado
+320,52401521,9922553675,Florencia,Santos Mármol,Mujer,37.0,0,2024-04-24,2024-04-30,6.0,6800000,Urgente,J45 - Asma,Subsidiado
+321,35594951,1458198451,Fito,Suárez Parra,Hombre,42.0,2,2024-02-24,2024-02-29,5.0,5600000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+322,61070189,722124509,Baldomero,Santamaria Carbonell,Hombre,18.0,0,2024-08-08,2024-08-19,11.0,14100000,Urgente,I20 - Angina de pecho,Contributivo
+323,38285503,9079675280,Ruy,Cabanillas Girona,Hombre,,2,2024-12-20,2025-01-03,14.0,15100000,Urgente,I10 - Hipertensión esencial,Subsidiado
+324,56775103,2190227431,Eufemia,Abril Noguera,Mujer,33.0,1,2024-12-07,2024-12-11,4.0,5100000,Urgente,N39 - Infección urinaria,Subsidiado
+325,93494928,5795522649,Marcos,Padilla Manzanares,Hombre,79.0,1,2024-07-08,2024-07-10,2.0,2800000,Urgente,I10 - Hipertensión esencial,Contributivo
+326,98046763,3500557310,Lucila,Yuste Pereira,Hombre,26.0,1,2024-09-11,2024-09-27,,19700000,Urgente,I10 - Hipertensión esencial,Contributivo
+327,74593961,1014766981,Juana,Camino Arroyo,Hombre,74.0,2,2024-05-13,2024-05-23,10.0,10000000,URGENTE,I50 - Insuficiencia cardíaca,subsidiado
+328,88834863,4923940434,Marisol,Córdoba Ugarte,Hombre,26.0,0,2024-08-18,2024-08-27,9.0,9700000,URGENTE,I10 - Hipertensión esencial,
+329,96423126,847275937,Joaquín,Checa Recio,Mujer,30.0,1,2024-11-12,2024-11-15,3.0,3300000,Urgente,J18 - Neumonía,Subsidiado
+330,65319931,2587283948,Timoteo,Campo Izquierdo,Mujer,50.0,3,2024-05-09,2024-05-17,8.0,8400000,Urgente,K35 - Apendicitis aguda,Subsidiado
+331,20776478,2815389788,Gabriela,Ferrández Expósito,Mujer,,0,2024-06-17,2024-06-22,,5900000,Urgente,J45 - Asma,Subsidiado
+332,25487660,6417183769,Ciriaco,Carrillo Pozo,Hombre,70.0,4,2024-08-15,2024-08-19,4.0,6300000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+333,39823450,6977267911,Juliana,Garriga Sebastián,Mujer,41.0,3,2024-02-26,2024-03-01,4.0,6100000,Urgente,I20 - Angina de pecho,contributivo
+334,29219319,6988845536,Claudio,Farré Neira,Mujer,72.0,1,2024-12-16,2024-12-23,7.0,7400000,urgente,N39 - Infección urinaria,Subsidiado
+335,7849494,4943324387,Abel,Campos Ribas,Mujer,36.0,1,2024-06-07,2024-06-19,12.0,15400000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+336,77736262,4588254555,Ignacio,Artigas Casal,Mujer,37.0,0,2024-06-11,2024-06-28,17.0,17900000,Urgente,I10 - Hipertensión esencial,Subsidiado
+337,98748972,9769648999,Albina,Sanjuan Sebastián,Hombre,92.0,4,2024-07-02,2024-07-05,3.0,5000000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+338,72772208,4536224717,Casemiro,Varela Cañizares,Hombre,34.0,1,2024-10-28,2024-11-02,5.0,6700000,Urgente,J18 - Neumonía,Subsidiado
+339,8181586,2178995337,Eligio,Valenzuela Acosta,Mujer,70.0,1,2024-04-24,2024-04-28,4.0,4400000,Urgente,I10 - Hipertensión esencial,Subsidiado
+340,42091325,5628158856,Dorita,Atienza Roselló,Mujer,78.0,2,2024-03-01,2024-03-07,6.0,7500000,programado,I10 - Hipertensión esencial,Contributivo
+341,7672593,1940955281,Jaime,Tomas Verdugo,Hombre,43.0,3,2024-05-18,2024-05-22,4.0,5300000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+342,6729990,4539308214,Aurelia,Elorza Durán,Mujer,79.0,3,2024-10-19,2024-10-22,3.0,4200000,Urgente,I20 - Angina de pecho,subsidiado
+343,78406989,7867077130,Irma,Castellanos Calleja,Mujer,74.0,3,2024-12-14,2024-12-17,3.0,4600000,Urgente,J18 - Neumonía,Subsidiado
+344,63993471,8919491730,Victor,Ponce Montserrat,Mujer,56.0,1,2024-05-05,2024-05-08,3.0,4900000,Programado,I20 - Angina de pecho,Subsidiado
+345,67491435,3673457063,Agapito,Varela Planas,Mujer,84.0,3,2024-04-11,2024-04-15,4.0,5200000,Urgente,J18 - Neumonía,Subsidiado
+346,71286543,6472806994,Adán,Riquelme Hurtado,Hombre,25.0,2,2024-04-13,2024-04-15,2.0,2500000,Urgente,I20 - Angina de pecho,Contributivo
+347,21130263,3847761430,Josefa,Llanos Puga,Hombre,37.0,0,2024-10-27,2024-10-30,3.0,5000000,Programado,I10 - Hipertensión esencial,CONTRIBUTIVO
+348,7634247,2799620568,Olegario,Novoa Mariscal,Mujer,60.0,6,2024-04-16,2024-04-22,6.0,7300000,Urgente,I20 - Angina de pecho,
+349,68159587,9970881535,Olga,Santamaría Cañellas,Mujer,34.0,0,2024-09-21,2024-09-27,6.0,7000000,Urgente,I20 - Angina de pecho,Subsidiado
+350,10752378,4560712830,Dionisio,Cervera Rey,Hombre,71.0,3,2024-11-11,2024-11-17,6.0,8000000,Urgente,J18 - Neumonía,Contributivo
+351,24941004,3067961943,Rosalina,Vila Martínez,Hombre,37.0,2,2024-05-25,2024-06-05,11.0,11600000,Urgente,J45 - Asma,subsidiado
+352,9196777,741134891,Telmo,Mir Gelabert,Hombre,72.0,4,2024-08-24,2024-08-30,6.0,7400000,Urgente,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+353,79864260,9653985783,Joaquina,Font Gallego,Hombre,47.0,2,2024-11-24,2024-12-05,11.0,10600000,Urgente,J18 - Neumonía,Subsidiado
+354,9121552,4976777081,Eligio,Manso Ojeda,Mujer,72.0,5,2024-08-15,2024-09-01,17.0,17200000,Urgente,J18 - Neumonía,Contributivo
+355,90625494,5509985983,Ale,Cazorla Enríquez,Mujer,33.0,1,2024-03-24,2024-04-01,8.0,8800000,Urgente,J18 - Neumonía,SUBSIDIADO
+356,31568532,2567900251,Calisto,Vara Mora,Hombre,77.0,3,2024-06-06,2024-06-08,2.0,3800000,Urgente,I50 - Insuficiencia cardíaca,Contributivo
+357,54193837,7075122626,Jenaro,Carlos Ortuño,Mujer,44.0,3,2024-03-24,2024-03-30,6.0,6300000,Urgente,J45 - Asma,Contributivo
+358,16090908,4578056564,Rodolfo,Tenorio Rincón,Hombre,55.0,4,2024-09-16,2024-09-21,5.0,7400000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+359,76460539,8995834531,Chuy,Macias Rocamora,Hombre,73.0,3,2024-03-18,2024-03-30,12.0,11700000,Programado,I50 - Insuficiencia cardíaca,Contributivo
+360,33046464,7208584394,Lupe,Alberto Yáñez,Hombre,75.0,3,2024-11-02,2024-11-06,4.0,4900000,Urgente,J18 - Neumonía,Contributivo
+361,77701200,5515369278,Noelia,Campillo Amaya,Mujer,32.0,2,2024-09-02,2024-09-05,3.0,3600000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+362,79795010,3750707607,Cristian,Piquer Codina,Hombre,81.0,4,2024-02-27,2024-03-01,3.0,4600000,Urgente,J18 - Neumonía,Subsidiado
+363,5334035,1431779064,Cristian,Baena Barbero,Mujer,33.0,2,2024-11-02,2024-11-04,2.0,3000000,Urgente,I10 - Hipertensión esencial,Subsidiado
+364,83131979,5797436140,Matías,Folch Lasa,Hombre,69.0,4,2024-01-14,2024-01-29,15.0,15900000,Urgente,E11 - Diabetes mellitus tipo 2,subsidiado
+365,11003626,1683446724,Quirino,Cuevas Macías,Hombre,66.0,2,2024-03-27,2024-04-01,5.0,6000000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+366,56267415,4028688786,Socorro,Iglesia Coll,Mujer,68.0,5,2024-11-08,2024-11-10,2.0,3200000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+367,88231132,9919578671,Marcelino,Barrios Marquez,Otro,57.0,0,2024-02-23,2024-03-07,13.0,16100000,Urgente,I20 - Angina de pecho,Subsidiado
+368,78339168,7695129534,Emigdio,Frías Antúnez,Hombre,23.0,0,2024-03-01,2024-03-15,14.0,14600000,urgente,I20 - Angina de pecho,Contributivo
+369,75863473,3492602049,Roberto,Palmer Santamaria,Mujer,83.0,3,2024-04-17,2024-04-22,5.0,7700000,Urgente,J45 - Asma,Subsidiado
+370,70166708,2260842187,María Ángeles,Calatayud Gomez,Mujer,28.0,1,2024-08-12,2024-08-14,2.0,2800000,Urgente,N39 - Infección urinaria,Subsidiado
+371,42462441,1554039848,Odalis,Porcel Gámez,Mujer,58.0,2,2024-01-20,2024-01-23,3.0,4300000,Urgente,K35 - Apendicitis aguda,subsidiado
+372,34999379,5852312425,Marisa,Vicente Maestre,Mujer,,1,2024-11-22,2024-11-26,4.0,4500000,Urgente,J45 - Asma,subsidiado
+373,27415205,5214917780,Sandra,Arévalo Pizarro,Mujer,29.0,2,2024-10-16,2024-10-21,5.0,6100000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+374,89889098,2088517710,Eliseo,Ponce Riera,Hombre,24.0,0,2024-11-16,2024-11-18,2.0,2900000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+375,96125636,590838716,Felipa,Milla Balaguer,Mujer,,2,2024-01-01,2024-01-10,9.0,10400000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+376,42169044,4626388820,Inés,Alberto Iglesias,Mujer,78.0,4,2024-09-18,2024-09-19,1.0,2000000,urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+377,32035886,9024330858,Eric,Franco Salazar,Hombre,29.0,0,2024-07-01,2024-07-11,10.0,9300000,Programado,I20 - Angina de pecho,Contributivo
+378,35650176,8752058817,Bruno,Gomis Pedro,Mujer,90.0,3,2024-01-17,2024-01-28,11.0,14200000,Urgente,J18 - Neumonía,subsidiado
+379,53121477,9152785948,Bernarda,Ferrándiz Ferrer,Hombre,77.0,5,2024-12-09,2024-12-13,4.0,5400000,Urgente,I10 - Hipertensión esencial,Contributivo
+380,17566185,1617999521,Chus,Mariscal Sanchez,Mujer,32.0,1,2024-09-10,2024-09-14,4.0,5500000,Programado,K35 - Apendicitis aguda,Contributivo
+381,90152735,696846464,Adán,Elías Benavente,Mujer,18.0,0,2024-01-17,2024-01-29,12.0,12800000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+382,86637649,9300919890,Emilia,Estévez Durán,Hombre,90.0,3,2024-12-22,2024-12-29,7.0,7300000,Urgente,E11 - Diabetes mellitus tipo 2,CONTRIBUTIVO
+383,40264926,1879792991,Florentina,Vilaplana Carreras,Hombre,54.0,2,2024-07-26,2024-07-30,4.0,5700000,Urgente,K35 - Apendicitis aguda,Contributivo
+384,61367643,6059591606,Fidel,Pi Armas,Hombre,51.0,3,2024-03-04,2024-03-08,4.0,6200000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+385,42436584,1928130926,Valerio,Romero Lorenzo,Hombre,78.0,4,2024-02-17,2024-02-24,7.0,6800000,Urgente,N39 - Infección urinaria,Subsidiado
+386,9736572,2293560436,Pascual,Lamas Castillo,Hombre,92.0,3,2024-03-08,2024-03-23,15.0,14200000,Urgente,I20 - Angina de pecho,Subsidiado
+387,1250299,3586784711,Lorenza,Cuevas Jara,Mujer,81.0,2,2024-04-20,2024-04-24,4.0,4600000,Urgente,I10 - Hipertensión esencial,Subsidiado
+388,61510041,8523104008,Ignacio,Adán Murillo,Mujer,73.0,3,2024-09-09,2024-09-13,4.0,5600000,Urgente,I20 - Angina de pecho,Contributivo
+389,83370583,6560389844,Eusebia,Soler Cortina,Hombre,39.0,1,2024-06-09,2024-06-14,5.0,5300000,urgente,K35 - Apendicitis aguda,subsidiado
+390,75563727,4150090143,Marianela,Ariño Corral,Hombre,41.0,3,2024-07-03,2024-07-08,5.0,6300000,Urgente,I50 - Insuficiencia cardíaca,Contributivo
+391,13419256,3508521152,Evaristo,Mora Azcona,Otro,41.0,3,2024-06-13,2024-06-19,6.0,7500000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+392,9832887,1073755632,Zaira,Mascaró Trujillo,Mujer,37.0,0,2024-08-19,2024-08-23,4.0,6000000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+393,72160068,7048810275,Sergio,Palma Beltran,Mujer,69.0,4,2024-04-23,2024-05-03,10.0,11800000,urgente,N39 - Infección urinaria,Contributivo
+394,28609087,8049270990,Encarnación,Moll Zaragoza,Hombre,67.0,5,2024-04-10,2024-04-12,2.0,2600000,urgente,I20 - Angina de pecho,Subsidiado
+395,67898694,9030554118,Jacinta,Gimeno Espejo,Mujer,60.0,4,2024-11-27,2024-12-03,6.0,7700000,Urgente,N39 - Infección urinaria,Subsidiado
+396,35594597,3655730355,Venceslás,Viñas Bayo,Hombre,65.0,5,2024-02-21,2024-02-27,6.0,7300000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+397,17778019,1224336336,Rosalina,Vazquez Cuervo,Hombre,51.0,1,2024-11-25,2024-11-28,3.0,4900000,urgente,I20 - Angina de pecho,Subsidiado
+398,46843172,3277561834,Isaac,Ricart Quintanilla,Mujer,67.0,5,2024-01-03,2024-01-09,6.0,6200000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+399,9233013,5466597005,Chema,Briones Olmedo,Hombre,27.0,3,2024-07-13,2024-07-20,7.0,9400000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+400,32787299,1878930355,Teófila,Giralt Garcés,Hombre,56.0,1,2024-07-18,2024-07-19,1.0,2800000,Urgente,N39 - Infección urinaria,Contributivo
+401,49597086,4409514899,Cornelio,Mármol Muñoz,Mujer,69.0,3,2024-08-02,2024-08-04,2.0,2900000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+402,38250360,4523703900,Enrique,Palomo Marin,Hombre,81.0,4,2024-11-01,2024-11-13,12.0,15800000,Urgente,I10 - Hipertensión esencial,Contributivo
+403,21172421,6451071432,Marina,Gil Taboada,Hombre,77.0,3,2024-12-06,2024-12-09,,5000000,Urgente,J18 - Neumonía,Contributivo
+404,58812137,5307626407,Duilio,Agullo Carbó,Hombre,22.0,2,2024-02-16,2024-02-18,,3500000,Urgente,I20 - Angina de pecho,Subsidiado
+405,72909480,4271453859,Dolores,Oliva Salinas,Mujer,27.0,0,2024-07-21,2024-07-22,1.0,1700000,Programado,E11 - Diabetes mellitus tipo 2,Subsidiado
+406,94427530,1610237679,Luna,Hernandez Hervás,Hombre,,4,2024-06-19,2024-06-21,2.0,2900000,urgente,K35 - Apendicitis aguda,contributivo
+407,40603163,4416031878,Rodrigo,Ariño Montesinos,Mujer,58.0,1,2024-02-17,2024-02-21,4.0,4600000,,I20 - Angina de pecho,Subsidiado
+408,82097999,3997866845,Pascual,Pizarro Carballo,Mujer,65.0,2,2024-01-08,2024-01-10,2.0,2700000,programado,I50 - Insuficiencia cardíaca,Subsidiado
+409,87775215,7086527181,Timoteo,Polo Jerez,Hombre,39.0,0,2024-04-28,2024-05-05,7.0,8400000,Urgente,I50 - Insuficiencia cardíaca,subsidiado
+410,70993218,3398953973,Maxi,Luna Amat,Mujer,58.0,3,2024-12-19,2024-12-22,3.0,4400000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+411,1049999,590985753,Máxima,Villanueva Perera,Mujer,35.0,0,2024-08-09,2024-08-15,6.0,8600000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+412,89639081,7858766173,Enrique,Vilar Verdugo,Hombre,24.0,2,2024-01-03,2024-01-14,11.0,11900000,URGENTE,N39 - Infección urinaria,Subsidiado
+413,74437458,7325222092,Jose Miguel,Salinas Torrecilla,Hombre,30.0,3,2024-11-09,2024-11-20,11.0,10200000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+414,40181935,340272119,Leonel,Arranz Martin,Hombre,71.0,1,2024-09-19,2024-09-25,6.0,7300000,programado,N39 - Infección urinaria,CONTRIBUTIVO
+415,89038526,1099184899,Filomena,Fernández Montes,Hombre,52.0,1,2024-11-02,2024-11-04,2.0,2400000,Urgente,J45 - Asma,Subsidiado
+416,13903144,3586139213,Cesar,Vilaplana Blanca,Mujer,72.0,2,2024-03-28,2024-04-02,5.0,6100000,urgente,J18 - Neumonía,SUBSIDIADO
+417,18024248,6561728644,Jose Ramón,Báez Diego,Mujer,,5,2024-06-01,2024-06-07,6.0,7200000,Urgente,E11 - Diabetes mellitus tipo 2,
+418,35496015,1237386857,Carolina,Aguilera Bastida,Mujer,73.0,4,2024-04-19,2024-05-08,19.0,20700000,Urgente,I20 - Angina de pecho,Subsidiado
+419,15492573,1293434554,Eliana,Galvez Garcés,Hombre,36.0,0,2024-03-25,2024-03-26,1.0,1900000,urgente,I20 - Angina de pecho,CONTRIBUTIVO
+420,14366125,205082311,Eli,Rodrigo Calleja,Hombre,81.0,5,2024-12-27,2025-01-01,5.0,6700000,Urgente,N39 - Infección urinaria,contributivo
+421,99645480,1963288053,Lorena,Fuster Rozas,Hombre,69.0,6,2024-07-03,2024-07-10,7.0,8100000,URGENTE,J45 - Asma,contributivo
+422,74252420,8182543558,Ema,Bello Corral,Hombre,31.0,1,2024-05-06,2024-05-11,5.0,5800000,Urgente,J45 - Asma,Subsidiado
+423,20863865,8660523876,Lucas,Alvarez Segovia,Mujer,69.0,3,2024-10-08,2024-10-13,5.0,5700000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+424,36553958,9629050953,Melania,Mármol Arellano,Hombre,39.0,0,2024-10-27,2024-10-30,3.0,4200000,Urgente,K35 - Apendicitis aguda,Contributivo
+425,37816686,4911625145,Jessica,Bonilla Beltrán,Mujer,68.0,3,2024-07-22,2024-07-31,,11300000,Urgente,E11 - Diabetes mellitus tipo 2,CONTRIBUTIVO
+426,81178885,1843567009,Amando,Ballester Enríquez,Hombre,68.0,4,2024-09-11,2024-09-16,,6700000,Urgente,N39 - Infección urinaria,Subsidiado
+427,28270233,6935554354,Regina,Infante Bejarano,Mujer,29.0,1,2024-07-25,2024-07-30,,6400000,Urgente,I20 - Angina de pecho,Contributivo
+428,96316277,9623150143,Rebeca,Goñi Jordán,Hombre,61.0,4,2024-12-05,2024-12-14,9.0,11100000,Urgente,J45 - Asma,Subsidiado
+429,46020613,1789144223,Genoveva,Ramón Pons,Mujer,23.0,0,2024-12-24,2024-12-28,4.0,5700000,Urgente,I20 - Angina de pecho,Subsidiado
+430,27326368,8957643727,Sara,Sanmartín Quiroga,Mujer,48.0,3,2024-02-17,2024-02-27,10.0,10500000,Urgente,I20 - Angina de pecho,subsidiado
+431,92274302,8481076448,Marcial,Roselló Molina,Mujer,55.0,2,2024-12-12,2024-12-14,2.0,3700000,Urgente,J45 - Asma,Contributivo
+432,85125977,2380064537,Hernán,Alegria Porras,Hombre,,3,2024-01-04,2024-01-10,6.0,8300000,urgente,J18 - Neumonía,subsidiado
+433,35431319,2019214800,Aura,Carrasco Aguado,Hombre,60.0,5,2024-07-08,2024-07-11,3.0,5000000,Urgente,J45 - Asma,SUBSIDIADO
+434,67834855,7025152555,Elvira,Barroso Arroyo,Mujer,42.0,3,2024-02-11,2024-02-13,2.0,2500000,Urgente,J45 - Asma,CONTRIBUTIVO
+435,65569635,8508499533,Araceli,Belmonte Pallarès,Mujer,65.0,3,2024-10-25,2024-11-08,14.0,16900000,Urgente,K35 - Apendicitis aguda,Subsidiado
+436,33704923,9679354165,Gonzalo,Valverde Camino,Hombre,80.0,3,2024-10-20,2024-10-22,2.0,3400000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+437,6818112,4364727160,Mariana,Manjón Mata,Mujer,61.0,3,2024-07-25,2024-07-30,5.0,5300000,Urgente,N39 - Infección urinaria,Subsidiado
+438,12388090,3386667704,Ruben,Bolaños Lucena,Hombre,37.0,0,2024-06-01,2024-06-03,2.0,2700000,programado,J45 - Asma,
+439,85132217,1480915452,Manolo,Río Pizarro,Hombre,59.0,4,2024-11-09,2024-11-19,10.0,11700000,Programado,I50 - Insuficiencia cardíaca,Contributivo
+440,56851377,2698343112,Flavia,Prats Anguita,Mujer,52.0,3,2024-08-16,2024-08-20,4.0,5700000,Urgente,N39 - Infección urinaria,contributivo
+441,37135391,1428156550,Baltasar,Sáez Crespi,Mujer,25.0,0,2024-04-12,2024-04-21,9.0,10000000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+442,5917225,4485387618,Miguela,Gimeno Cerezo,Otro,37.0,0,2024-09-13,2024-09-20,7.0,7200000,URGENTE,N39 - Infección urinaria,Contributivo
+443,475894,6640078465,Tomasa,Portillo Marquez,Mujer,74.0,4,2024-07-06,2024-07-23,17.0,21800000,,J45 - Asma,Subsidiado
+444,44769200,7281641403,Nadia,Cobos Martí,Mujer,,1,2024-11-19,2024-11-20,1.0,1800000,Urgente,I20 - Angina de pecho,Subsidiado
+445,17558317,2713284816,Jose,Perea Alba,Hombre,33.0,1,2024-11-13,2024-11-15,2.0,3400000,Urgente,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+446,85511909,3485356009,Ana Belén,Cid Casal,Hombre,33.0,2,2024-02-25,2024-03-05,9.0,9100000,Urgente,I20 - Angina de pecho,Subsidiado
+447,35159040,8860949331,Rolando,Arnaiz Adadia,Otro,35.0,0,2024-10-10,2024-10-16,6.0,7600000,programado,K35 - Apendicitis aguda,Subsidiado
+448,21687165,1965718821,Daniel,Prado Blázquez,Hombre,66.0,3,2024-04-23,2024-04-27,,5500000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+449,99486328,1260326267,Jose Angel,Mayol Gallo,Mujer,42.0,0,2024-02-03,2024-02-18,15.0,13700000,Urgente,J45 - Asma,Subsidiado
+450,59302158,4474951950,Angelina,Núñez Galán,Mujer,90.0,6,2024-05-05,2024-05-10,5.0,6900000,Urgente,J18 - Neumonía,Subsidiado
+451,74045292,8303765140,Felicia,Rey Vila,Hombre,30.0,1,2024-07-23,2024-07-26,3.0,5000000,urgente,I10 - Hipertensión esencial,SUBSIDIADO
+452,94713081,6508522951,Dorotea,Cisneros Cuevas,Hombre,24.0,0,2024-11-05,2024-11-14,9.0,10300000,URGENTE,J45 - Asma,SUBSIDIADO
+453,57403166,6627266377,Calisto,Espejo Giner,Mujer,67.0,2,2024-12-13,2024-12-18,5.0,7100000,Urgente,E11 - Diabetes mellitus tipo 2,contributivo
+454,75283645,1087974350,Belén,Iriarte Ferrera,Hombre,93.0,4,2024-06-12,2024-06-17,5.0,5900000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+455,1297845,5115750294,Tamara,Carbó Escudero,Mujer,59.0,2,2024-02-03,2024-02-10,7.0,7100000,Urgente,J18 - Neumonía,subsidiado
+456,15015458,3353689019,Albano,Ballester Serra,Hombre,48.0,4,2024-01-10,2024-01-18,8.0,7600000,URGENTE,K35 - Apendicitis aguda,contributivo
+457,10099059,5720572969,Poncio,Beltran Manso,Mujer,48.0,3,2024-08-12,2024-08-14,2.0,3600000,urgente,K35 - Apendicitis aguda,Contributivo
+458,92747083,5875597607,Maximiliano,Bautista Iglesia,Mujer,62.0,3,2024-05-04,2024-05-08,4.0,5700000,Urgente,J18 - Neumonía,
+459,20005727,8115282784,Eligio,Cabello Figueroa,Mujer,39.0,0,2024-03-03,2024-03-05,2.0,2600000,urgente,I20 - Angina de pecho,Subsidiado
+460,73227889,7487449580,Roldán,Torrens Muro,Mujer,84.0,5,2024-03-14,2024-03-20,6.0,6100000,Urgente,J18 - Neumonía,Contributivo
+461,4835614,5955593943,Rosalinda,Palau Castellanos,Mujer,64.0,5,2024-08-18,2024-09-01,14.0,17500000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+462,49555330,4182110973,Primitiva,Guitart Cabo,Hombre,65.0,3,2024-09-17,2024-09-19,2.0,3200000,Urgente,N39 - Infección urinaria,Contributivo
+463,78183110,6431813987,Cloe,López Baños,Hombre,62.0,5,2024-07-04,2024-07-05,1.0,2100000,Urgente,J45 - Asma,Contributivo
+464,74158663,6525240100,Sosimo,Ferrer Moll,Hombre,57.0,2,2024-01-03,2024-01-06,3.0,4300000,Urgente,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+465,19876811,3440904834,Pío,Torre Sanjuan,Otro,61.0,5,2024-06-18,2024-06-22,,5000000,Urgente,N39 - Infección urinaria,CONTRIBUTIVO
+466,57684996,7417757797,Carina,Moya Maza,Mujer,55.0,3,2024-02-20,2024-02-28,8.0,8700000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+467,17105448,4633956194,Isabela,Corominas Pastor,Mujer,68.0,3,2024-10-26,2024-10-30,4.0,5600000,Urgente,J45 - Asma,Subsidiado
+468,5614174,3531928910,Francisco Jose,Molina Romero,Hombre,28.0,0,2024-06-28,2024-07-04,6.0,7800000,Urgente,J45 - Asma,
+469,41373735,6637761996,María Carmen,Domingo Acuña,Mujer,36.0,1,2024-07-01,2024-07-04,3.0,4000000,Urgente,J45 - Asma,Subsidiado
+470,48942697,1379592595,Adriana,Millán Hoz,Otro,52.0,4,2024-05-14,2024-05-18,4.0,5000000,Urgente,I10 - Hipertensión esencial,Contributivo
+471,5354599,4638860656,María Luisa,Giralt Rubio,Mujer,71.0,4,2024-07-25,2024-07-28,3.0,5100000,,I10 - Hipertensión esencial,CONTRIBUTIVO
+472,48024342,7133593748,Camilo,Lloret Palomares,Otro,76.0,6,2024-02-24,2024-02-26,2.0,4100000,Urgente,K35 - Apendicitis aguda,Contributivo
+473,28195995,5611356986,Ale,Cañizares Mármol,Mujer,48.0,2,2024-09-08,2024-09-16,8.0,10400000,Programado,J45 - Asma,SUBSIDIADO
+474,91545441,1830154607,Diana,Tena Sevillano,Hombre,71.0,2,2024-10-17,2024-10-20,3.0,4300000,urgente,I20 - Angina de pecho,subsidiado
+475,33491314,7257484586,Borja,Salinas Palmer,Hombre,80.0,3,2024-03-22,2024-03-28,6.0,6700000,URGENTE,N39 - Infección urinaria,Subsidiado
+476,89514287,5804850108,Alberto,Mayoral Torrens,Otro,25.0,2,2024-07-06,2024-07-09,3.0,3900000,Urgente,K35 - Apendicitis aguda,Subsidiado
+477,13796726,8771848610,Juan Francisco,Camps Echevarría,Mujer,84.0,4,2024-03-09,2024-03-14,5.0,6900000,Urgente,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+478,47469942,8581991473,Ildefonso,Bilbao Lozano,Hombre,38.0,1,2024-05-09,2024-05-10,1.0,2100000,Urgente,J18 - Neumonía,Contributivo
+479,75146293,9769140886,Aníbal,Chaves Ferrándiz,Otro,29.0,0,2024-08-05,2024-08-09,4.0,4000000,Urgente,I10 - Hipertensión esencial,Contributivo
+480,54543049,4071218314,Ágata,Lago Benito,Hombre,34.0,0,2024-02-06,2024-02-09,3.0,3900000,Urgente,J45 - Asma,Subsidiado
+481,83303777,8912233947,Benito,Benet Alfonso,Hombre,73.0,4,2024-07-09,2024-07-19,10.0,11400000,Urgente,E11 - Diabetes mellitus tipo 2,subsidiado
+482,20743797,7033062794,Montserrat,Vendrell Anguita,Hombre,68.0,4,2024-07-10,2024-07-12,2.0,3300000,URGENTE,K35 - Apendicitis aguda,Contributivo
+483,31774346,2918046336,Rómulo,Quirós Garcia,Mujer,,4,2024-08-26,2024-08-30,4.0,4700000,Urgente,K35 - Apendicitis aguda,subsidiado
+484,21810617,4092199300,Antonia,Arco Juliá,Hombre,27.0,0,2024-02-12,2024-02-18,6.0,7200000,,I10 - Hipertensión esencial,SUBSIDIADO
+485,23763566,7650676663,Luciano,Suarez Comas,Hombre,36.0,1,2024-05-08,2024-05-17,9.0,8900000,Programado,K35 - Apendicitis aguda,
+486,55337219,149460439,Eusebia,Paz Poza,Hombre,23.0,1,2024-12-21,2024-12-29,,8600000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+487,3326769,288765093,Leticia,Godoy Manso,Mujer,66.0,1,2024-08-20,2024-08-24,4.0,5500000,urgente,K35 - Apendicitis aguda,subsidiado
+488,24073380,5868336102,Angélica,Cañete Sobrino,Mujer,27.0,0,2024-10-07,2024-10-12,5.0,7300000,Urgente,I50 - Insuficiencia cardíaca,contributivo
+489,98860009,2436297208,María Fernanda,Vallejo Vicens,Hombre,60.0,2,2024-08-04,2024-08-14,10.0,11200000,URGENTE,N39 - Infección urinaria,Subsidiado
+490,44585178,2598862507,Severo,Botella Puente,Hombre,44.0,1,2024-03-10,2024-03-14,4.0,6700000,Urgente,J18 - Neumonía,CONTRIBUTIVO
+491,55259205,7211516617,Teo,Pascual Vallés,Mujer,78.0,3,2024-01-13,2024-01-18,5.0,6100000,urgente,K35 - Apendicitis aguda,Subsidiado
+492,89913412,8370133343,Judith,Alarcón Haro,Hombre,74.0,3,2024-06-27,2024-07-07,10.0,9600000,Urgente,N39 - Infección urinaria,Subsidiado
+493,98657752,5892752604,Samu,Daza Vilaplana,Mujer,57.0,1,2024-10-13,2024-11-01,19.0,21400000,Programado,N39 - Infección urinaria,contributivo
+494,33308443,3277422858,Celestino,Checa Salmerón,Mujer,64.0,5,2024-06-15,2024-06-21,6.0,7700000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+495,35810056,2464975279,Felicidad,Cuervo Escamilla,Mujer,80.0,3,2024-06-14,2024-06-21,7.0,8900000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+496,21367172,6568980185,Brunilda,Coll Tomás,Mujer,36.0,1,2024-11-20,2024-11-28,8.0,10000000,urgente,K35 - Apendicitis aguda,Contributivo
+497,94123965,6004510516,Brígida,Palmer Arjona,Hombre,91.0,5,2024-03-10,2024-03-20,,10900000,URGENTE,I20 - Angina de pecho,Contributivo
+498,14508349,7084809436,Encarnación,Gilabert Torrent,Mujer,71.0,1,2024-06-20,2024-06-29,9.0,9700000,Urgente,E11 - Diabetes mellitus tipo 2,CONTRIBUTIVO
+499,51343880,487258103,Ezequiel,Guardiola Barros,Otro,69.0,5,2024-12-07,2024-12-10,3.0,4200000,Urgente,N39 - Infección urinaria,Subsidiado
+500,5197528,3159699467,Leopoldo,Lamas Peiró,Otro,64.0,4,2024-08-11,2024-08-17,6.0,5700000,Urgente,N39 - Infección urinaria,Contributivo
+501,63174945,2412365931,Celso,Guillén Arnau,Hombre,36.0,1,2024-03-13,2024-03-22,9.0,11300000,programado,J45 - Asma,Subsidiado
+502,29854548,9707870630,Martín,Gabaldón Villaverde,Hombre,66.0,2,2024-06-10,2024-06-21,11.0,11800000,urgente,K35 - Apendicitis aguda,subsidiado
+503,26786211,1916728422,Cayetano,Paniagua Pons,Mujer,75.0,6,2024-12-23,2024-12-27,4.0,4800000,URGENTE,I10 - Hipertensión esencial,Contributivo
+504,61780854,9816477929,Ariadna,Soria Sanz,Hombre,77.0,3,2024-11-16,2024-11-22,6.0,7200000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+505,46930359,2109688769,África,Artigas Ariño,Hombre,60.0,2,2024-10-26,2024-11-01,6.0,8700000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+506,40962024,526723719,Herminio,Morante Calderón,Mujer,24.0,0,2024-04-11,2024-04-16,5.0,5000000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+507,30547349,3662861038,Nuria,Vázquez Llanos,Hombre,49.0,2,2024-07-09,2024-07-15,6.0,7200000,URGENTE,J18 - Neumonía,SUBSIDIADO
+508,29920292,1941508568,Fabricio,Lago Dávila,Hombre,73.0,4,2024-07-12,2024-08-07,26.0,31700000,Urgente,N39 - Infección urinaria,CONTRIBUTIVO
+509,3176186,9962553609,Brunilda,Peñas Pinedo,Hombre,56.0,3,2024-02-19,2024-02-23,4.0,5200000,URGENTE,J45 - Asma,Subsidiado
+510,88588154,8868845806,Nacho,Pavón Bermejo,Hombre,46.0,2,2024-04-19,2024-04-23,4.0,5300000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+511,25921441,6623575561,Rosendo,Villanueva Infante,Hombre,71.0,6,2024-09-06,2024-09-07,1.0,2000000,Urgente,I50 - Insuficiencia cardíaca,Contributivo
+512,53481198,8123207735,Delia,Peñalver Gisbert,Mujer,92.0,4,2024-11-25,2024-11-26,1.0,1700000,Urgente,E11 - Diabetes mellitus tipo 2,subsidiado
+513,44058573,3656572173,Fabiana,Villalonga Ramis,Hombre,34.0,0,2024-09-01,2024-09-07,6.0,8100000,Urgente,N39 - Infección urinaria,Subsidiado
+514,37393469,2738900744,María Carmen,Osorio Ochoa,Hombre,76.0,3,2024-12-15,2024-12-24,9.0,9600000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+515,9317495,7703867299,Perlita,Torrens Toledo,Mujer,35.0,0,2024-12-07,2024-12-15,8.0,9400000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+516,37463522,2185089287,Florentina,Agudo Valls,Mujer,34.0,2,2024-08-26,2024-08-29,3.0,4600000,Urgente,J45 - Asma,Subsidiado
+517,47130035,596471620,Isa,Chamorro Sabater,Mujer,77.0,5,2024-05-27,2024-06-04,8.0,7800000,URGENTE,J18 - Neumonía,Contributivo
+518,86098221,7689593739,Fernanda,Daza Grau,Hombre,65.0,4,2024-12-03,2024-12-07,,5300000,Urgente,J45 - Asma,SUBSIDIADO
+519,68371272,4407856339,Blas,Benítez Vilar,Otro,70.0,4,2024-07-22,2024-07-26,4.0,5200000,Urgente,E11 - Diabetes mellitus tipo 2,contributivo
+520,53643924,5879428703,Martín,Lucas Galán,Mujer,71.0,3,2024-08-05,2024-08-07,2.0,3100000,Urgente,J45 - Asma,Contributivo
+521,91203377,2369305560,Jovita,Conesa Estévez,Hombre,29.0,1,2024-11-10,2024-11-13,3.0,5400000,Urgente,I20 - Angina de pecho,Contributivo
+522,71969657,370292681,Ulises,Criado Paredes,Mujer,77.0,4,2024-04-09,2024-04-16,7.0,7200000,urgente,N39 - Infección urinaria,Subsidiado
+523,44446182,5623360831,Luna,Carrasco Grau,Otro,,0,2024-11-05,2024-11-11,6.0,6400000,Urgente,E11 - Diabetes mellitus tipo 2,subsidiado
+524,3704481,7382488970,Raquel,Ribera Murillo,Hombre,28.0,0,2024-12-14,2024-12-19,,6800000,urgente,N39 - Infección urinaria,Subsidiado
+525,15480907,6552812957,Jorge,Carballo Tirado,Hombre,39.0,2,2024-07-03,2024-07-04,1.0,2200000,Urgente,I10 - Hipertensión esencial,contributivo
+526,35059710,7598503901,Bautista,Tejero Tello,Mujer,27.0,1,2024-08-20,2024-08-25,5.0,6800000,Urgente,K35 - Apendicitis aguda,Subsidiado
+527,23966966,316756902,Jose Ignacio,Galvez Cuéllar,Mujer,35.0,1,2024-08-19,2024-08-22,3.0,3900000,Urgente,I10 - Hipertensión esencial,Subsidiado
+528,77925434,8471306442,Chema,Reig Alonso,Mujer,67.0,3,2024-07-18,2024-07-24,6.0,6700000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+529,35630292,2758823240,Ámbar,Hervás Aroca,Mujer,78.0,3,2024-09-28,2024-10-08,10.0,9700000,Urgente,K35 - Apendicitis aguda,Subsidiado
+530,5134794,6227593033,Toño,Castell Cuevas,Hombre,72.0,4,2024-12-14,2024-12-17,3.0,3900000,urgente,I10 - Hipertensión esencial,Subsidiado
+531,14549543,1479679716,David,Cañizares Vila,Hombre,67.0,4,2024-09-02,2024-09-07,5.0,5100000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+532,80070438,4150074940,Wilfredo,Ariza Collado,Otro,41.0,4,2024-06-23,2024-07-08,15.0,15100000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+533,58326160,9123202552,Emma,Barba Delgado,Otro,81.0,4,2024-09-20,2024-09-26,6.0,8100000,Urgente,J45 - Asma,Subsidiado
+534,46397338,4952163720,Emelina,Jordá Escolano,Hombre,73.0,4,2024-11-03,2024-11-08,5.0,6800000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+535,97783662,707196784,Bartolomé,Villanueva Ramirez,Hombre,35.0,1,2024-02-25,2024-02-28,3.0,3500000,Urgente,K35 - Apendicitis aguda,Contributivo
+536,42101056,3046558332,Martin,Alfonso Luque,Hombre,24.0,1,2024-04-22,2024-04-30,8.0,8100000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+537,58571795,8138644862,Griselda,Boada Gascón,Hombre,57.0,4,2024-11-12,2024-11-14,2.0,3800000,Urgente,J45 - Asma,subsidiado
+538,81363974,3633257620,Manuela,Sanchez Soto,Mujer,32.0,1,2024-03-21,2024-03-31,10.0,11600000,Urgente,J45 - Asma,SUBSIDIADO
+539,68642041,1076341629,Gema,Tirado Donaire,Mujer,30.0,0,2024-10-02,2024-10-09,7.0,8800000,Urgente,J18 - Neumonía,Subsidiado
+540,15521714,6660813178,Manu,Gimenez Reig,Mujer,66.0,1,2024-10-21,2024-10-24,,4000000,URGENTE,N39 - Infección urinaria,contributivo
+541,51700055,9127536899,Gabino,Clavero Espada,Hombre,35.0,0,2024-11-21,2024-11-24,3.0,3700000,Urgente,I10 - Hipertensión esencial,Subsidiado
+542,77388337,9890556359,Dimas,Vicente Lamas,Hombre,39.0,2,2024-07-25,2024-07-28,3.0,4400000,Urgente,J18 - Neumonía,Contributivo
+543,25511941,2291270703,Albano,Diez Noriega,Mujer,67.0,3,2024-06-26,2024-06-27,1.0,2500000,programado,N39 - Infección urinaria,contributivo
+544,34188276,9314220265,Laura,Santana Bayona,Hombre,72.0,5,2024-07-04,2024-07-10,6.0,6200000,Urgente,N39 - Infección urinaria,
+545,5957459,662259333,Emigdio,Gras Pineda,Hombre,68.0,2,2024-01-04,2024-01-05,1.0,1700000,Urgente,I20 - Angina de pecho,Subsidiado
+546,95131550,6894019119,Judith,Pol Catalán,Mujer,19.0,2,2024-05-08,2024-05-12,4.0,5900000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+547,58526649,2420721027,Aitor,Camps Alegre,Mujer,27.0,0,2024-09-24,2024-09-28,4.0,5400000,Urgente,J18 - Neumonía,Contributivo
+548,226999,121863227,Fernando,Francisco Yáñez,Hombre,66.0,3,2024-09-18,2024-09-22,4.0,5000000,Urgente,J18 - Neumonía,Subsidiado
+549,69782527,6772180882,Anabel,Varela Rivas,Hombre,25.0,2,2024-10-23,2024-10-29,6.0,8500000,Programado,N39 - Infección urinaria,Contributivo
+550,72269803,2796581976,Ovidio,Conde Bárcena,Hombre,73.0,3,2024-10-08,2024-10-11,3.0,3800000,urgente,J45 - Asma,Contributivo
+551,92188405,2744446292,Azeneth,Elías Tamarit,Hombre,47.0,3,2024-08-12,2024-08-17,5.0,6800000,urgente,I50 - Insuficiencia cardíaca,Contributivo
+552,96560259,9834064882,Asunción,Arias Vaquero,Hombre,44.0,3,2024-07-15,2024-07-25,10.0,9400000,urgente,J45 - Asma,Subsidiado
+553,99582853,8403748506,Micaela,Carpio Buendía,Hombre,65.0,1,2024-11-19,2024-11-26,7.0,8600000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+554,98923524,2074232200,Pacífica,Toledo Castillo,Hombre,46.0,2,2024-12-17,2024-12-20,3.0,4500000,Urgente,K35 - Apendicitis aguda,Contributivo
+555,90010234,7236980551,Lorena,Abella Rosado,Hombre,36.0,0,2024-03-12,2024-03-17,5.0,5400000,URGENTE,I20 - Angina de pecho,Contributivo
+556,26445607,5572436051,Juan Antonio,Yuste Rivero,Mujer,32.0,0,2024-01-16,2024-01-20,4.0,5600000,,I20 - Angina de pecho,Subsidiado
+557,48884978,8903351330,Flavio,Pellicer Aroca,Mujer,61.0,4,2024-02-10,2024-02-14,4.0,5600000,Urgente,I10 - Hipertensión esencial,Subsidiado
+558,57887757,257324536,Ramiro,Romeu Grande,Mujer,32.0,1,2024-07-03,2024-07-08,5.0,7300000,Programado,J45 - Asma,Subsidiado
+559,9391725,6183058541,Edmundo,Toledo Piquer,Hombre,31.0,2,2024-02-27,2024-02-29,2.0,3100000,,K35 - Apendicitis aguda,Subsidiado
+560,89152472,6374810067,Maribel,Ordóñez Cabañas,Hombre,69.0,2,2024-12-05,2024-12-06,1.0,2600000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+561,44318698,5171239466,Mercedes,Roig Cañete,Hombre,69.0,4,2024-06-10,2024-06-12,2.0,2500000,Urgente,I10 - Hipertensión esencial,contributivo
+562,83638503,2605585995,Samanta,Iñiguez Tejada,Mujer,68.0,3,2024-06-15,2024-06-22,7.0,9000000,Urgente,I20 - Angina de pecho,Subsidiado
+563,42133044,7380312396,Julio César,Guerrero Blanes,Mujer,72.0,3,2024-04-17,2024-04-24,7.0,8700000,Urgente,K35 - Apendicitis aguda,Contributivo
+564,89038359,7991977937,Luz,Luque Real,Mujer,79.0,3,2024-08-12,2024-08-20,8.0,8400000,Urgente,J18 - Neumonía,
+565,16726926,8484167278,Soraya,Jiménez Fajardo,Mujer,42.0,1,2024-08-04,2024-08-06,2.0,2800000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+566,96603781,2412273600,Desiderio,Adán Aguilar,Hombre,23.0,0,2024-08-24,2024-08-29,,6200000,Urgente,N39 - Infección urinaria,Subsidiado
+567,40308572,1370592316,María Manuela,Yáñez Carranza,Mujer,,2,2024-12-15,2024-12-19,4.0,6100000,Urgente,J18 - Neumonía,Subsidiado
+568,68064830,2003484425,Trinidad,Vizcaíno Aguilar,Mujer,42.0,0,2024-06-03,2024-06-07,4.0,5000000,programado,E11 - Diabetes mellitus tipo 2,contributivo
+569,41511484,5443749394,Amor,Perez Fuertes,Hombre,24.0,1,2024-05-02,2024-05-06,4.0,4800000,Urgente,N39 - Infección urinaria,Subsidiado
+570,89508850,1064803502,Nico,Moles Rebollo,Mujer,33.0,1,2024-12-04,2024-12-10,6.0,8800000,Urgente,J45 - Asma,SUBSIDIADO
+571,54813568,415802902,Noemí,Paredes Campillo,Hombre,25.0,1,2024-01-28,2024-01-31,3.0,4400000,Urgente,I50 - Insuficiencia cardíaca,subsidiado
+572,43779528,6937993287,Timoteo,Cortes Rojas,Hombre,49.0,1,2024-06-21,2024-07-01,10.0,10900000,Urgente,I10 - Hipertensión esencial,contributivo
+573,54009265,1343100352,Lalo,Izaguirre Jurado,Mujer,39.0,1,2024-02-22,2024-03-03,10.0,9200000,urgente,I10 - Hipertensión esencial,Subsidiado
+574,93577729,3277581356,Azucena,Roda Pavón,Hombre,41.0,0,2024-03-24,2024-03-30,6.0,7900000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+575,39682169,6505693643,Bernardo,Llorens Puerta,Hombre,62.0,5,2024-04-17,2024-04-26,9.0,8700000,urgente,K35 - Apendicitis aguda,Subsidiado
+576,74411983,5620138568,Juan José,Frías Reyes,Hombre,18.0,0,2024-03-18,2024-03-20,2.0,3700000,Urgente,I50 - Insuficiencia cardíaca,subsidiado
+577,17084279,99541460,Leticia,Tolosa Escamilla,Mujer,62.0,2,2024-03-11,2024-03-21,10.0,12500000,Urgente,J45 - Asma,Subsidiado
+578,25748341,8354711271,Corona,Pellicer Tomás,Hombre,71.0,4,2024-09-14,2024-09-20,6.0,7100000,Urgente,I20 - Angina de pecho,
+579,56431351,6465834732,Eulalia,Izaguirre Melero,Hombre,53.0,0,2024-08-08,2024-08-11,3.0,3200000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+580,89245317,4151887478,Carmelo,Ocaña Puig,Mujer,,2,2024-07-21,2024-07-24,3.0,5000000,Urgente,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+581,50888017,9513972838,Anabel,Cervera Carrera,Mujer,67.0,3,2024-03-06,2024-03-18,12.0,12300000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+582,90908075,1515672889,Xavier,Gras Salom,Otro,39.0,0,2024-11-22,2024-11-30,8.0,8600000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+583,23357554,4512036684,Ariadna,Cáceres Cabrera,Hombre,35.0,0,2024-07-13,2024-07-17,,4400000,Urgente,I10 - Hipertensión esencial,
+584,82613013,6316122432,Plácido,Garmendia Verdugo,Mujer,58.0,2,2024-01-24,2024-01-26,,3500000,programado,J18 - Neumonía,
+585,76384014,2305069227,Bartolomé,Pérez Nevado,Hombre,44.0,1,2024-10-07,2024-10-17,10.0,9900000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+586,40392808,3638577630,Angelina,Azorin Cuevas,Mujer,66.0,5,2024-08-19,2024-08-21,2.0,3800000,Urgente,J45 - Asma,contributivo
+587,54502486,1850820685,Rosa María,Porcel Adadia,Mujer,67.0,3,2024-07-13,2024-07-17,4.0,4200000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+588,73542887,8085085822,Claudia,Bou Codina,Mujer,27.0,1,2024-01-23,2024-01-27,4.0,5400000,Urgente,N39 - Infección urinaria,Subsidiado
+589,54484,7419590655,Flavio,Soto Rozas,Mujer,63.0,1,2024-04-07,2024-04-10,3.0,4800000,Urgente,K35 - Apendicitis aguda,Subsidiado
+590,40785405,7575707116,Quirino,Borja Baró,Mujer,59.0,4,2024-05-25,2024-05-29,4.0,6400000,Programado,J18 - Neumonía,Subsidiado
+591,38508907,1571688961,Fausto,Jódar Girona,Mujer,33.0,0,2024-12-26,2024-12-31,5.0,6400000,programado,E11 - Diabetes mellitus tipo 2,Subsidiado
+592,28210242,1720484983,José Mari,Peláez Bernal,Hombre,85.0,3,2024-02-19,2024-02-23,4.0,5200000,Urgente,N39 - Infección urinaria,Subsidiado
+593,57698610,5131005449,María Teresa,Arellano Planas,Mujer,54.0,3,2024-02-26,2024-03-03,6.0,6400000,Urgente,I50 - Insuficiencia cardíaca,subsidiado
+594,77844239,6671041685,Cristian,Pérez Vázquez,Mujer,22.0,0,2024-09-06,2024-09-19,13.0,14800000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+595,81424737,4610783750,Tere,Macías Barceló,Hombre,,4,2024-06-11,2024-06-13,2.0,3400000,Urgente,E11 - Diabetes mellitus tipo 2,contributivo
+596,87873101,6460728316,Consuela,Díez Urrutia,Mujer,,0,2024-04-15,2024-04-20,5.0,6600000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+597,43251559,510289448,Ileana,Saavedra Alarcón,Hombre,29.0,0,2024-02-09,2024-02-11,2.0,3000000,Urgente,K35 - Apendicitis aguda,contributivo
+598,62409658,4187948804,Loreto,Franch Villegas,Mujer,78.0,1,2024-11-28,2024-11-29,1.0,2500000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+599,59295515,5986770879,David,Macias Ferreras,Mujer,61.0,2,2024-08-17,2024-08-26,9.0,11100000,,E11 - Diabetes mellitus tipo 2,Subsidiado
+600,59345683,8327720702,Javier,Aragonés Vicens,Mujer,49.0,3,2024-11-11,2024-11-17,6.0,7100000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+601,90681152,3242550727,Manu,Villalobos Guardiola,Mujer,74.0,4,2024-10-13,2024-10-14,1.0,2200000,Urgente,N39 - Infección urinaria,Subsidiado
+602,28682516,9444881680,Araceli,Doménech Araujo,Mujer,31.0,1,2024-10-13,2024-10-17,4.0,4900000,Urgente,I20 - Angina de pecho,Subsidiado
+603,68608612,6481631841,Abilio,Palomares Haro,Mujer,89.0,5,2024-10-04,2024-10-06,2.0,3000000,Urgente,J18 - Neumonía,Subsidiado
+604,63509974,2147818256,Arsenio,Abad Criado,Mujer,30.0,0,2024-06-12,2024-06-16,4.0,5900000,URGENTE,N39 - Infección urinaria,Subsidiado
+605,98779073,194576436,Rosa María,Bolaños Llorente,Mujer,40.0,1,2024-08-20,2024-08-27,7.0,9400000,Urgente,J45 - Asma,SUBSIDIADO
+606,22775593,9178501320,Rosalía,Pulido Osuna,Mujer,37.0,0,2024-03-27,2024-04-03,7.0,7700000,urgente,I20 - Angina de pecho,subsidiado
+607,88429450,1962750929,Albano,Prats Ramirez,Mujer,81.0,2,2024-11-23,2024-11-27,4.0,5400000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+608,11381064,2214080278,Jose Ignacio,Fonseca Villaverde,Mujer,47.0,1,2024-05-20,2024-05-29,9.0,12300000,Urgente,K35 - Apendicitis aguda,Contributivo
+609,38089166,6928074841,Arturo,Alcántara Bayona,Hombre,68.0,3,2024-10-03,2024-10-14,,14200000,Urgente,K35 - Apendicitis aguda,Subsidiado
+610,69182797,4992908271,Agustina,Bosch Luís,Hombre,60.0,4,2024-11-05,2024-11-12,7.0,9200000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+611,89100953,9875136292,Prudencio,Oliveras Olivera,Mujer,38.0,0,2024-06-04,2024-06-07,3.0,4000000,Programado,E11 - Diabetes mellitus tipo 2,Subsidiado
+612,84951883,6581349462,Rodolfo,Lloret Gonzalo,Hombre,61.0,3,2024-04-10,2024-04-14,4.0,4500000,Urgente,J45 - Asma,Subsidiado
+613,83115778,5582557981,Zoraida,Ferreras Sanz,Hombre,88.0,3,2024-02-06,2024-02-18,12.0,11100000,Urgente,I10 - Hipertensión esencial,Contributivo
+614,44988206,3503614567,Eutimio,Quintero Acuña,Mujer,69.0,4,2024-06-23,2024-06-27,4.0,4900000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+615,12534217,5877052039,Gastón,Julián Díez,Hombre,64.0,3,2024-03-17,2024-03-24,7.0,8000000,Programado,I50 - Insuficiencia cardíaca,SUBSIDIADO
+616,31523529,2893976444,Rosa,Ramírez Velasco,Hombre,69.0,1,2024-07-14,2024-07-17,3.0,3800000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+617,90301106,8503597301,Andrés Felipe,Campillo Belmonte,Mujer,24.0,0,2024-10-05,2024-10-14,9.0,10700000,,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+618,41663795,6801948900,Carolina,Vaquero Mariscal,Mujer,58.0,1,2024-10-13,2024-10-15,2.0,3700000,,I50 - Insuficiencia cardíaca,SUBSIDIADO
+619,30150759,8704383251,Nieves,Nieto Caro,Hombre,44.0,3,2024-07-06,2024-07-10,4.0,5400000,Urgente,I10 - Hipertensión esencial,subsidiado
+620,26726767,6333316743,Xiomara,Vilanova Jiménez,Hombre,61.0,5,2024-08-21,2024-08-28,7.0,8000000,URGENTE,I50 - Insuficiencia cardíaca,
+621,19777514,2480920839,Lidia,Ibáñez Salas,Mujer,57.0,0,2024-09-23,2024-10-07,14.0,15400000,programado,K35 - Apendicitis aguda,subsidiado
+622,3278320,3098389895,Manu,Pi Tomás,Mujer,73.0,5,2024-11-06,2024-11-11,5.0,6700000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+623,6202700,6801180691,Gabriela,Hervia Nicolás,Mujer,79.0,4,2024-09-06,2024-09-10,4.0,4300000,Urgente,J18 - Neumonía,Contributivo
+624,32862209,9322278323,Simón,Segarra Serna,Mujer,75.0,4,2024-08-10,2024-08-14,4.0,5200000,Urgente,K35 - Apendicitis aguda,Subsidiado
+625,63771720,7907752604,Jacobo,Amorós Toledo,Hombre,77.0,4,2024-03-06,2024-03-15,9.0,10400000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+626,82043803,2923699745,Modesto,Carnero Jordá,Mujer,28.0,2,2024-06-27,2024-07-03,6.0,7000000,Urgente,J45 - Asma,Subsidiado
+627,9774839,8725528903,Jose Ramón,Bauzà Piñeiro,Mujer,53.0,0,2024-08-20,2024-08-27,7.0,8500000,Urgente,K35 - Apendicitis aguda,Subsidiado
+628,61124923,471997674,Sigfrido,Giménez Gras,Hombre,83.0,4,2024-01-28,2024-02-09,12.0,12600000,Urgente,I10 - Hipertensión esencial,CONTRIBUTIVO
+629,55625330,4376302686,Yolanda,Moles Revilla,Mujer,64.0,4,2024-06-01,2024-06-06,5.0,4800000,Urgente,I10 - Hipertensión esencial,CONTRIBUTIVO
+630,84525678,5642266247,Lola,Osuna Villalonga,Mujer,32.0,0,2024-08-05,2024-08-11,6.0,8500000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+631,77265240,4945359606,Miguel,Agustí Lago,Hombre,45.0,4,2024-04-27,2024-05-01,4.0,4200000,Programado,K35 - Apendicitis aguda,subsidiado
+632,26096655,2965676060,Kike,Hurtado Madrigal,Hombre,73.0,5,2024-07-18,2024-07-21,3.0,3300000,urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+633,96414756,8248574674,Paola,Buendía Pujol,Hombre,72.0,1,2024-09-21,2024-09-24,3.0,4600000,Urgente,I10 - Hipertensión esencial,subsidiado
+634,93463085,8857430687,Casemiro,Nogués Benitez,Hombre,89.0,4,2024-08-14,2024-08-15,1.0,3000000,,I20 - Angina de pecho,Contributivo
+635,51536717,9182994340,Concha,Escalona Tamayo,Mujer,61.0,5,2024-11-16,2024-11-23,7.0,7500000,Urgente,E11 - Diabetes mellitus tipo 2,
+636,66354180,9480460432,Ramón,Mir Otero,Mujer,77.0,3,2024-07-23,2024-07-29,6.0,7900000,Programado,I20 - Angina de pecho,SUBSIDIADO
+637,53640499,7139209752,Dimas,Gil Leon,Hombre,68.0,5,2024-08-16,2024-08-23,7.0,8500000,Urgente,J18 - Neumonía,Subsidiado
+638,32747037,6551874474,Ani,España Falcón,Mujer,70.0,5,2024-03-03,2024-03-06,,4600000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+639,19806690,5038780151,Ignacia,Valenzuela Flores,Mujer,83.0,3,2024-10-01,2024-10-04,3.0,4200000,Programado,N39 - Infección urinaria,Subsidiado
+640,88054615,7272725281,Valeria,Guitart Herranz,Mujer,73.0,3,2024-04-10,2024-04-13,3.0,4900000,Programado,I10 - Hipertensión esencial,contributivo
+641,92291118,6915226263,Baldomero,Lara Gabaldón,Mujer,39.0,1,2024-01-09,2024-01-18,9.0,9900000,urgente,I50 - Insuficiencia cardíaca,contributivo
+642,744212,5353758928,Gastón,Grande Franco,Mujer,78.0,4,2024-04-18,2024-04-23,5.0,5100000,urgente,J18 - Neumonía,SUBSIDIADO
+643,14305904,6691931213,Jacinto,Iborra Palacio,Mujer,,1,2024-05-06,2024-05-11,5.0,6600000,Urgente,K35 - Apendicitis aguda,
+644,57062156,9831197912,Nilda,Costa Campillo,Mujer,,3,2024-08-19,2024-08-27,8.0,8500000,,E11 - Diabetes mellitus tipo 2,Subsidiado
+645,29372360,9480185938,Ascensión,Carretero Bermudez,Mujer,26.0,1,2024-12-25,2024-12-28,3.0,3900000,Urgente,I10 - Hipertensión esencial,Subsidiado
+646,23607110,7322868827,Arturo,Ugarte Agudo,Hombre,48.0,3,2024-08-18,2024-08-24,6.0,7600000,,J18 - Neumonía,Contributivo
+647,93403697,5656646925,Salvador,Arnal Toledo,Hombre,51.0,3,2024-09-04,2024-09-19,15.0,18600000,URGENTE,J18 - Neumonía,subsidiado
+648,69519112,5469458472,Bruno,Pera Miró,Hombre,56.0,1,2024-10-04,2024-10-14,10.0,11400000,Urgente,N39 - Infección urinaria,Subsidiado
+649,62350830,9113379885,Saturnina,Ugarte Llobet,Hombre,65.0,5,2024-05-25,2024-05-31,6.0,7800000,Urgente,I10 - Hipertensión esencial,subsidiado
+650,6740197,8504724761,Adela,Tudela España,Hombre,65.0,3,2024-09-27,2024-10-02,,6400000,Programado,K35 - Apendicitis aguda,Contributivo
+651,74813739,7809871735,Rosenda,Vicente Losada,Mujer,71.0,3,2024-06-18,2024-06-25,7.0,9800000,Urgente,K35 - Apendicitis aguda,Subsidiado
+652,33446826,3455798713,Lorenzo,Puga Girona,Hombre,76.0,3,2024-01-25,2024-02-05,,12900000,programado,I50 - Insuficiencia cardíaca,Contributivo
+653,16288475,1247484671,María Ángeles,Castellanos Balaguer,Hombre,41.0,2,2024-12-15,2024-12-26,11.0,12200000,programado,J45 - Asma,contributivo
+654,61265269,3067213499,Ramona,Zaragoza Rocha,Hombre,62.0,3,2024-09-07,2024-09-20,13.0,15100000,Urgente,I20 - Angina de pecho,contributivo
+655,17896471,9691353069,María,Tejera Antúnez,Mujer,33.0,1,2024-07-04,2024-07-10,6.0,8900000,Urgente,K35 - Apendicitis aguda,Subsidiado
+656,62363359,2057629778,Nacio,Valverde Olivera,Mujer,70.0,4,2024-12-27,2024-12-28,1.0,2600000,,N39 - Infección urinaria,Subsidiado
+657,89600766,6608141858,Chema,Prada Díaz,Mujer,65.0,2,2024-11-25,2024-12-09,14.0,15300000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+658,71287314,7285000265,Carolina,Sebastián Carreño,Mujer,47.0,3,2024-04-10,2024-04-13,3.0,4100000,,I20 - Angina de pecho,Subsidiado
+659,75017682,589582865,Yago,Villegas Seguí,Hombre,72.0,2,2024-01-15,2024-01-23,8.0,9900000,Urgente,J18 - Neumonía,Subsidiado
+660,79920257,2520417815,Adán,Moles Aguirre,Hombre,75.0,2,2024-05-12,2024-05-13,1.0,2600000,programado,I10 - Hipertensión esencial,SUBSIDIADO
+661,42587010,1041349374,Rafa,Albero Galvez,Mujer,74.0,4,2024-02-15,2024-02-20,5.0,6000000,,K35 - Apendicitis aguda,subsidiado
+662,59401199,2280805846,Herberto,Pino Cabrero,Otro,79.0,6,2024-02-25,2024-02-29,4.0,5800000,urgente,I50 - Insuficiencia cardíaca,Contributivo
+663,82228802,2739951076,Lupe,Morell Pardo,Hombre,36.0,1,2024-04-07,2024-04-20,13.0,12600000,Urgente,J18 - Neumonía,Subsidiado
+664,96539316,225447588,Cintia,Jover Exposito,Mujer,55.0,3,2024-12-19,2024-12-25,6.0,7800000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+665,67750178,6070083150,Milagros,Jódar Gálvez,Mujer,38.0,0,2024-12-12,2024-12-17,5.0,6400000,Programado,E11 - Diabetes mellitus tipo 2,Contributivo
+666,57276174,7375996697,Marco,Leon Soto,Mujer,29.0,2,2024-12-20,2024-12-26,6.0,6200000,Urgente,J45 - Asma,Contributivo
+667,73534128,9021771667,Manola,Novoa Paz,Mujer,30.0,2,2024-11-14,2024-11-15,1.0,2900000,Urgente,J18 - Neumonía,contributivo
+668,59849511,3310415016,Esther,Espejo Valenzuela,Mujer,73.0,3,2024-03-20,2024-03-23,3.0,3900000,Urgente,N39 - Infección urinaria,Contributivo
+669,21361812,3990452762,Jose Carlos,Rodrigo Galvez,Mujer,80.0,2,2024-03-26,2024-03-29,3.0,3800000,urgente,N39 - Infección urinaria,contributivo
+670,99811743,8067664957,Abril,Rius Perales,Mujer,68.0,2,2024-04-27,2024-05-04,7.0,9400000,Urgente,K35 - Apendicitis aguda,Subsidiado
+671,63709724,8434946584,Rafa,Patiño Pérez,Mujer,71.0,3,2024-04-26,2024-04-28,2.0,3700000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+672,60407340,5674372082,Domitila,Losa Sanmartín,Hombre,48.0,2,2024-01-19,2024-01-24,5.0,6300000,Urgente,J18 - Neumonía,Subsidiado
+673,34788100,2774110439,Ana,Escolano Castro,Mujer,36.0,0,2024-06-18,2024-06-22,4.0,5400000,Programado,I10 - Hipertensión esencial,Subsidiado
+674,33183955,8974165440,María Teresa,Granados Cabo,Hombre,94.0,4,2024-05-20,2024-05-23,3.0,4300000,Programado,I10 - Hipertensión esencial,
+675,85585469,2465883999,Maura,Lerma Gutiérrez,Mujer,39.0,0,2024-09-06,2024-09-09,3.0,3800000,Urgente,J45 - Asma,Subsidiado
+676,37220099,4022964382,Gustavo,Rosell Piquer,Otro,20.0,2,2024-06-23,2024-06-27,4.0,5800000,URGENTE,I10 - Hipertensión esencial,Subsidiado
+677,69967676,5046864799,Luz,Ferrández Coello,Mujer,41.0,2,2024-05-10,2024-05-11,1.0,2500000,Urgente,I20 - Angina de pecho,Subsidiado
+678,65041510,3949801453,Valentina,Conde Suárez,Mujer,,2,2024-10-09,2024-10-17,8.0,11300000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+679,84120751,2127657643,Carina,Agustí Egea,Otro,80.0,4,2024-09-22,2024-09-25,3.0,3500000,Urgente,I10 - Hipertensión esencial,contributivo
+680,32111036,8272277508,Martirio,Robles Valero,Hombre,74.0,5,2024-02-05,2024-02-09,4.0,4700000,Urgente,N39 - Infección urinaria,Subsidiado
+681,36855845,3765583254,Natividad,Cañizares Villanueva,Hombre,33.0,0,2024-07-02,2024-07-14,12.0,14900000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+682,59038700,4334769475,Jose Luis,Moles Torrecilla,Mujer,55.0,2,2024-05-28,2024-06-05,8.0,8300000,,I10 - Hipertensión esencial,Subsidiado
+683,10399639,8516893896,Eutropio,Marín Iglesia,Mujer,65.0,3,2024-11-05,2024-11-07,2.0,3600000,,I20 - Angina de pecho,contributivo
+684,95770370,5517150278,Adolfo,Asenjo Puig,Hombre,59.0,2,2024-12-28,2024-12-29,1.0,1700000,urgente,N39 - Infección urinaria,
+685,38349783,4031086659,Sebastián,Cabeza Cárdenas,Hombre,62.0,4,2024-03-08,2024-03-15,7.0,7600000,Urgente,J18 - Neumonía,SUBSIDIADO
+686,31473195,6305101214,Amado,Barreda Garriga,Hombre,,3,2024-03-23,2024-03-27,4.0,4900000,Urgente,K35 - Apendicitis aguda,Contributivo
+687,36468984,4778781449,Joan,Izquierdo Tamayo,Hombre,84.0,3,2024-06-27,2024-07-02,5.0,6700000,Programado,K35 - Apendicitis aguda,Subsidiado
+688,45076693,9287842124,Camila,Bárcena Sandoval,Mujer,,3,2024-04-25,2024-05-03,8.0,11300000,Urgente,I10 - Hipertensión esencial,CONTRIBUTIVO
+689,42910691,9694878816,Osvaldo,Nadal Juan,Hombre,56.0,1,2024-11-13,2024-11-21,8.0,10300000,Urgente,K35 - Apendicitis aguda,contributivo
+690,72498004,799718923,Fanny,Paniagua Palomino,Mujer,38.0,0,2024-08-05,2024-08-08,3.0,3500000,urgente,I10 - Hipertensión esencial,contributivo
+691,10814950,7458717057,Primitiva,Jiménez Núñez,Mujer,44.0,2,2024-10-21,2024-10-25,4.0,6600000,,I10 - Hipertensión esencial,SUBSIDIADO
+692,18572252,7691288568,Joaquina,Aller Requena,Mujer,61.0,6,2024-05-21,2024-05-27,6.0,7500000,Urgente,N39 - Infección urinaria,Subsidiado
+693,20244148,3252504650,Saturnina,Carrión Ortega,Hombre,33.0,0,2024-07-13,2024-07-19,6.0,8200000,Urgente,J45 - Asma,contributivo
+694,31039390,9343679501,Agapito,Flor Díaz,Mujer,35.0,1,2024-08-03,2024-08-08,5.0,5200000,Programado,I50 - Insuficiencia cardíaca,Subsidiado
+695,51410126,8147736635,Nico,Luís Padilla,Mujer,28.0,1,2024-11-26,2024-12-07,11.0,10300000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+696,93140367,7846861559,Abel,Morcillo Vicens,Hombre,40.0,4,2024-02-13,2024-02-19,6.0,6800000,Programado,J45 - Asma,Subsidiado
+697,20509175,6508080884,Martina,Torrent Salvador,Mujer,34.0,0,2024-09-24,2024-10-02,8.0,10200000,Urgente,I50 - Insuficiencia cardíaca,
+698,94813972,4667503195,Gema,Bermudez Piquer,Hombre,38.0,1,2024-05-23,2024-05-29,6.0,7500000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+699,28716269,2874432021,Renato,Macías Silva,Mujer,59.0,0,2024-06-15,2024-06-17,2.0,4100000,URGENTE,I50 - Insuficiencia cardíaca,Subsidiado
+700,8620650,4898890707,Reina,Coca Diez,Mujer,63.0,5,2024-08-11,2024-08-14,3.0,3800000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+701,55682626,1065354117,Malena,Navas Robles,Hombre,40.0,1,2024-10-01,2024-10-03,2.0,2400000,Urgente,I20 - Angina de pecho,Contributivo
+702,54707061,5415031531,Lucía,Quiroga Bellido,Mujer,32.0,1,2024-12-03,2024-12-12,9.0,11400000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+703,44410148,5306523372,Marino,Bernad Cáceres,Mujer,,3,2024-12-15,2024-12-16,1.0,2600000,URGENTE,J18 - Neumonía,Subsidiado
+704,72828034,7532327465,Cristóbal,Nuñez Gracia,Mujer,64.0,2,2024-11-22,2024-11-26,4.0,6400000,Urgente,N39 - Infección urinaria,Subsidiado
+705,62535301,8392515666,Hernán,Mir Moliner,Mujer,70.0,4,2024-12-12,2024-12-16,4.0,5500000,Urgente,I50 - Insuficiencia cardíaca,Contributivo
+706,55804273,9886782080,Benita,Manuel Lastra,Otro,77.0,4,2024-02-26,2024-03-01,4.0,5000000,Urgente,I20 - Angina de pecho,
+707,8357162,4344083406,Jordán,Prats Linares,Mujer,,0,2024-09-13,2024-09-17,4.0,3800000,Programado,I50 - Insuficiencia cardíaca,Contributivo
+708,27760841,7102515984,Simón,Salgado Parejo,Hombre,50.0,1,2024-04-14,2024-04-27,13.0,15300000,Urgente,N39 - Infección urinaria,subsidiado
+709,56390708,2975418439,Amparo,Viñas Sanjuan,Mujer,52.0,2,2024-04-16,2024-04-17,1.0,1700000,Urgente,J18 - Neumonía,contributivo
+710,52274692,8856756553,Benito,Riba Diego,Hombre,80.0,2,2024-05-11,2024-05-21,10.0,11200000,Urgente,I20 - Angina de pecho,subsidiado
+711,78393811,4802739154,Erasmo,Espejo Alvarado,Hombre,30.0,0,2024-05-11,2024-05-15,4.0,5100000,,I10 - Hipertensión esencial,SUBSIDIADO
+712,93351515,1317723211,Leonor,Casares Guitart,Hombre,55.0,3,2024-09-19,2024-09-27,8.0,8100000,Urgente,E11 - Diabetes mellitus tipo 2,subsidiado
+713,2621534,9925574695,Lino,Infante Bernal,Mujer,30.0,0,2024-03-19,2024-03-24,5.0,6000000,Urgente,J45 - Asma,subsidiado
+714,77267850,9094231366,Ciro,Galvez Diaz,Mujer,69.0,5,2024-08-26,2024-08-28,2.0,3800000,,J45 - Asma,Contributivo
+715,51053877,5562144159,Armando,Puerta Calderon,Mujer,83.0,2,2024-06-22,2024-07-03,11.0,12200000,urgente,J45 - Asma,SUBSIDIADO
+716,64019136,2639796200,África,Bustos Bartolomé,Hombre,88.0,3,2024-01-02,2024-01-12,10.0,11500000,URGENTE,I50 - Insuficiencia cardíaca,Subsidiado
+717,791358,4868640848,Jesús,Sáenz Balaguer,Hombre,88.0,3,2024-02-21,2024-02-23,2.0,2500000,Urgente,I20 - Angina de pecho,Subsidiado
+718,47212267,4952894290,Teófila,Amo Puerta,Otro,80.0,4,2024-08-01,2024-08-08,7.0,9100000,Programado,N39 - Infección urinaria,Subsidiado
+719,40079111,6896596272,Ramona,Zamora Blanco,Mujer,78.0,4,2024-02-28,2024-03-02,3.0,3700000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+720,52343121,9652790514,Aurora,Calleja Jáuregui,Hombre,73.0,4,2024-03-15,2024-03-16,1.0,2300000,Programado,I20 - Angina de pecho,Subsidiado
+721,56240084,8941564880,Seve,Cortés Blasco,Hombre,,5,2024-08-01,2024-08-04,3.0,3900000,Urgente,J18 - Neumonía,Subsidiado
+722,72238741,7317619798,Juanita,Porta Mendoza,Mujer,30.0,1,2024-07-07,2024-07-18,11.0,12100000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+723,98600914,2423086220,Teresita,Grande Huertas,Mujer,,0,2024-12-05,2024-12-13,8.0,11200000,Programado,K35 - Apendicitis aguda,Contributivo
+724,73300637,2171050399,Ramón,Luz Salazar,Hombre,67.0,4,2024-11-10,2024-11-14,4.0,5000000,Programado,I20 - Angina de pecho,Contributivo
+725,80967191,643611097,Álvaro,Cases Castro,Hombre,33.0,0,2024-03-28,2024-04-08,11.0,10500000,Urgente,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+726,29600202,6529817193,Mariana,Zurita Donaire,Hombre,31.0,0,2024-05-03,2024-05-13,10.0,10600000,Urgente,J18 - Neumonía,contributivo
+727,65529051,9089181675,Cesar,Andrade Arana,Mujer,40.0,4,2024-11-12,2024-11-15,3.0,3800000,Urgente,I20 - Angina de pecho,contributivo
+728,29450273,9472127262,Custodia,Palacios Morell,Hombre,77.0,6,2024-05-03,2024-05-15,12.0,12800000,Urgente,I20 - Angina de pecho,Contributivo
+729,36632757,6799567490,Claudio,Tamayo Solera,Mujer,68.0,1,2024-06-22,2024-06-26,4.0,4600000,Urgente,J18 - Neumonía,SUBSIDIADO
+730,58496914,6487012742,Anselma,Lladó Salgado,Mujer,,2,2024-11-06,2024-11-10,4.0,5500000,Urgente,J18 - Neumonía,Subsidiado
+731,65181765,3473306055,Eliseo,Cepeda Elorza,Mujer,56.0,2,2024-01-13,2024-01-14,1.0,2700000,Programado,I50 - Insuficiencia cardíaca,CONTRIBUTIVO
+732,3895645,1947476917,Febe,Saura Royo,Hombre,33.0,1,2024-11-10,2024-11-13,3.0,4300000,Urgente,I20 - Angina de pecho,Subsidiado
+733,52191530,6499349987,Oriana,Zabaleta Menendez,Hombre,29.0,0,2024-12-23,2024-12-27,4.0,5000000,Urgente,K35 - Apendicitis aguda,Subsidiado
+734,45114543,8837912162,Rufino,Olivera Tirado,Hombre,49.0,1,2024-04-14,2024-04-20,6.0,8400000,Urgente,E11 - Diabetes mellitus tipo 2,subsidiado
+735,89774697,7760642358,Carlito,Gordillo Borrás,Mujer,67.0,3,2024-11-03,2024-11-05,,2900000,Urgente,I10 - Hipertensión esencial,Subsidiado
+736,91152880,3106464319,Dora,Sala Mena,Hombre,34.0,2,2024-12-04,2024-12-07,3.0,4500000,Urgente,I10 - Hipertensión esencial,CONTRIBUTIVO
+737,54266464,5995554056,Clementina,Paz Revilla,Mujer,83.0,4,2024-01-07,2024-01-20,13.0,12100000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+738,97197979,3506639908,Bernabé,Juan Cortés,Hombre,74.0,2,2024-08-03,2024-08-12,9.0,10700000,urgente,N39 - Infección urinaria,SUBSIDIADO
+739,22151928,3203205881,Trinidad,Mateos Alarcón,Mujer,57.0,2,2024-03-19,2024-03-29,10.0,10300000,Programado,J18 - Neumonía,SUBSIDIADO
+740,62732043,2483827971,Gloria,Abad Zabala,Mujer,86.0,4,2024-04-17,2024-04-21,4.0,5500000,Urgente,J18 - Neumonía,subsidiado
+741,17129912,4489485517,Eladio,Cerezo Núñez,Mujer,44.0,3,2024-11-15,2024-11-21,6.0,5800000,Urgente,N39 - Infección urinaria,Subsidiado
+742,83517915,8863781331,Jordi,Madrid Somoza,Mujer,39.0,2,2024-01-01,2024-01-08,7.0,7800000,,J18 - Neumonía,SUBSIDIADO
+743,71688860,4269728610,Lupe,Aguirre Téllez,Hombre,65.0,3,2024-12-11,2024-12-24,13.0,12700000,Programado,N39 - Infección urinaria,Contributivo
+744,3619375,8305502799,Juan Carlos,Tejada Marí,Hombre,27.0,1,2024-02-28,2024-02-29,1.0,2700000,urgente,I20 - Angina de pecho,subsidiado
+745,52884503,4431267548,Renata,Agullo Ros,Mujer,64.0,4,2024-07-23,2024-07-26,3.0,4800000,Urgente,N39 - Infección urinaria,
+746,79442503,1756070122,Maxi,Marco Guardia,Hombre,43.0,2,2024-03-16,2024-03-22,6.0,6500000,Urgente,J18 - Neumonía,Subsidiado
+747,75751409,3302709858,Ángeles,Aguilar Pereira,Mujer,50.0,2,2024-02-08,2024-02-13,5.0,5000000,URGENTE,J18 - Neumonía,Subsidiado
+748,88986321,6100408092,Nicolasa,Fabregat Requena,Hombre,83.0,3,2024-07-03,2024-07-06,3.0,4500000,Urgente,I20 - Angina de pecho,Subsidiado
+749,3637575,5937704752,Rubén,Ruiz Prat,Hombre,,6,2024-12-26,2025-01-02,7.0,9300000,Urgente,N39 - Infección urinaria,Subsidiado
+750,11267237,8189503254,Juanita,Iborra Cárdenas,Hombre,56.0,1,2024-02-04,2024-02-07,3.0,4500000,Programado,I20 - Angina de pecho,Contributivo
+751,86268397,1613385303,Paz,Porta Pineda,Mujer,69.0,5,2024-06-12,2024-06-17,5.0,5900000,urgente,K35 - Apendicitis aguda,Contributivo
+752,57527432,2316277000,Magdalena,Giménez Jódar,Hombre,20.0,0,2024-05-05,2024-05-11,6.0,7100000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+753,18213276,1493660313,Nacho,Bernad Roca,Hombre,71.0,4,2024-07-25,2024-07-28,3.0,5200000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+754,61968116,6602474923,Maximino,Heras Villanueva,Mujer,66.0,4,2024-03-21,2024-03-29,8.0,8000000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+755,24391257,2271361431,Víctor,Llabrés López,Mujer,31.0,0,2024-11-05,2024-11-14,9.0,10300000,Urgente,J18 - Neumonía,Subsidiado
+756,6749089,5576426590,Lalo,Leiva Rey,Hombre,22.0,0,2024-02-17,2024-02-20,3.0,4200000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+757,34917589,6633342225,Joaquín,Fabra Bayona,Hombre,73.0,5,2024-10-01,2024-10-04,3.0,5500000,Urgente,I10 - Hipertensión esencial,CONTRIBUTIVO
+758,50882459,6579604766,Carlito,Esparza Cerezo,Hombre,62.0,5,2024-10-21,2024-10-23,2.0,3600000,urgente,K35 - Apendicitis aguda,SUBSIDIADO
+759,43936531,3536306171,Hermenegildo,Manjón Cano,Hombre,56.0,1,2024-03-15,2024-03-20,5.0,6600000,Programado,N39 - Infección urinaria,CONTRIBUTIVO
+760,28408562,5358023411,Elías,Sarabia Santamaría,Hombre,39.0,1,2024-06-24,2024-06-30,6.0,7900000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+761,61028710,1486744752,Melisa,Lladó Téllez,Mujer,34.0,1,2024-04-21,2024-04-25,4.0,5000000,Urgente,I20 - Angina de pecho,Contributivo
+762,43868501,1183906581,María Luisa,Expósito Montes,Mujer,49.0,2,2024-12-05,2024-12-11,6.0,7400000,Urgente,J18 - Neumonía,Subsidiado
+763,45298556,484664056,Daniela,Aliaga Cornejo,Mujer,48.0,3,2024-07-20,2024-07-23,3.0,4500000,Urgente,J18 - Neumonía,Subsidiado
+764,50885459,67198189,César,Ayala Alonso,Hombre,63.0,2,2024-11-15,2024-11-18,3.0,4700000,Urgente,J18 - Neumonía,SUBSIDIADO
+765,37346970,885113834,Fabricio,Estevez Calatayud,Mujer,61.0,5,2024-04-03,2024-04-09,6.0,6400000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+766,56581473,9023282667,Curro,Luján Leon,Hombre,38.0,0,2024-02-05,2024-02-08,3.0,3200000,Programado,J18 - Neumonía,Subsidiado
+767,33859311,4439176290,Fidel,Casares Ríos,Hombre,58.0,2,2024-02-19,2024-02-23,4.0,5100000,Urgente,I20 - Angina de pecho,Subsidiado
+768,10993268,209063208,Vinicio,Aguiló Guerrero,Hombre,37.0,1,2024-12-13,2024-12-19,6.0,6800000,Programado,N39 - Infección urinaria,Subsidiado
+769,63123515,3180599722,Adelaida,Bosch Contreras,Mujer,,5,2024-06-14,2024-06-20,6.0,6600000,programado,I50 - Insuficiencia cardíaca,Contributivo
+770,2601580,6022683808,Mauricio,Alcolea Uriarte,Hombre,44.0,2,2024-06-26,2024-06-29,3.0,4900000,Urgente,J18 - Neumonía,subsidiado
+771,72399599,9596414118,Santos,Gaya Nogués,Mujer,34.0,0,2024-03-08,2024-03-17,9.0,10700000,Urgente,I10 - Hipertensión esencial,Subsidiado
+772,6990811,242425303,Dionisio,Rivera Mesa,Hombre,65.0,1,2024-05-21,2024-05-28,7.0,7800000,Programado,I10 - Hipertensión esencial,Subsidiado
+773,46970882,1242377075,Blanca,Valentín Pera,Mujer,59.0,2,2024-02-08,2024-02-14,6.0,6600000,Programado,E11 - Diabetes mellitus tipo 2,Subsidiado
+774,30094589,9959615526,Pepito,Silva Angulo,Mujer,59.0,3,2024-09-20,2024-09-22,2.0,2700000,Urgente,J18 - Neumonía,SUBSIDIADO
+775,87260863,1377246195,María Luisa,Murillo Bernat,Hombre,65.0,3,2024-10-24,2024-10-29,5.0,6900000,Urgente,J18 - Neumonía,Subsidiado
+776,9209801,5244338653,Hipólito,Coll Barba,Mujer,71.0,4,2024-10-10,2024-10-13,3.0,3300000,Urgente,I50 - Insuficiencia cardíaca,
+777,87477029,5585609060,Vito,Larrea Poza,Mujer,42.0,1,2024-12-01,2024-12-07,6.0,7000000,programado,I50 - Insuficiencia cardíaca,Subsidiado
+778,5403355,8851745648,Mario,Bellido Soriano,Hombre,28.0,2,2024-11-10,2024-11-11,1.0,1900000,,J45 - Asma,Subsidiado
+779,4164775,3915196257,Abigaíl,Escudero Fernandez,Hombre,82.0,3,2024-04-17,2024-04-21,4.0,4800000,Urgente,N39 - Infección urinaria,contributivo
+780,33189803,2128675098,Juan Manuel,Ibáñez Pizarro,Hombre,65.0,5,2024-10-17,2024-10-20,3.0,4200000,URGENTE,J18 - Neumonía,Contributivo
+781,26757737,8470922075,Reyes,Alberola Carro,Hombre,,0,2024-04-24,2024-05-02,8.0,8400000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+782,2735359,7178361487,Dimas,Ibarra Plaza,Hombre,60.0,5,2024-07-10,2024-07-11,1.0,3000000,,N39 - Infección urinaria,Contributivo
+783,83394260,9958888664,Cipriano,Salazar Huertas,Mujer,18.0,0,2024-11-02,2024-11-07,5.0,5700000,Urgente,J18 - Neumonía,subsidiado
+784,20452412,6083067988,Fausto,Aragonés Flor,Mujer,76.0,4,2024-04-16,2024-04-23,7.0,8000000,Programado,N39 - Infección urinaria,Contributivo
+785,32016960,4935852056,Noemí,Serna Burgos,Mujer,75.0,3,2024-07-04,2024-07-18,14.0,14400000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+786,16941092,1616884203,Itziar,Vázquez Galindo,Hombre,32.0,0,2024-04-16,2024-04-19,3.0,4300000,Urgente,I50 - Insuficiencia cardíaca,Contributivo
+787,63560289,2033747850,Marco,Suárez Porcel,Hombre,35.0,0,2024-11-20,2024-11-26,6.0,6300000,Urgente,J18 - Neumonía,
+788,89853245,3647891535,Pascuala,Miguel Moraleda,Mujer,73.0,5,2024-02-17,2024-02-18,1.0,2400000,Urgente,N39 - Infección urinaria,Subsidiado
+789,15353091,3039019230,Julie,Cuadrado Arnal,Mujer,52.0,2,2024-01-12,2024-01-17,5.0,5900000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+790,75694715,7755749566,Josefina,Viñas Carvajal,Hombre,62.0,4,2024-06-05,2024-06-15,10.0,10700000,Urgente,J18 - Neumonía,subsidiado
+791,29254705,3928783441,Elisa,Isern Teruel,Mujer,41.0,2,2024-07-28,2024-08-11,14.0,14900000,Urgente,K35 - Apendicitis aguda,Subsidiado
+792,62415804,6710396573,Apolinar,Martín Fiol,Hombre,55.0,1,2024-10-14,2024-10-20,6.0,6000000,URGENTE,I50 - Insuficiencia cardíaca,Subsidiado
+793,93880599,8451577335,Ildefonso,Palomo Azorin,Hombre,37.0,0,2024-06-18,2024-06-19,1.0,2600000,URGENTE,N39 - Infección urinaria,Subsidiado
+794,34392446,4870891270,Petrona,Gibert Carbajo,Hombre,24.0,1,2024-11-06,2024-11-17,11.0,11200000,,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+795,49512272,5338036681,Rocío,Guzman Rovira,Mujer,72.0,6,2024-08-25,2024-08-26,1.0,1700000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+796,22520277,5168291913,Nacio,Morata Alcolea,Hombre,34.0,0,2024-02-01,2024-02-03,2.0,3500000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+797,81321540,2777580509,Eusebio,Diego Llorente,Hombre,51.0,2,2024-10-03,2024-10-14,11.0,10600000,URGENTE,J18 - Neumonía,Subsidiado
+798,81503378,8255898264,Ciriaco,Carretero Priego,Hombre,44.0,2,2024-01-09,2024-01-13,4.0,4300000,Urgente,J45 - Asma,subsidiado
+799,96416275,7933377472,Leonor,Herrero Agullo,Hombre,60.0,5,2024-04-02,2024-04-05,3.0,3800000,Urgente,I20 - Angina de pecho,contributivo
+800,15372341,8987064419,Jose Ramón,Arnal Talavera,Hombre,28.0,0,2024-01-26,2024-02-02,7.0,7400000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+801,21980274,818112342,Pelayo,Cortina Pera,Hombre,,4,2024-07-17,2024-07-22,5.0,6200000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+802,41746937,5448001026,Ruy,Borrás Ibarra,Mujer,79.0,5,2024-05-21,2024-05-30,9.0,10100000,Urgente,I20 - Angina de pecho,Contributivo
+803,14508768,2589530484,Armida,Criado Valero,Hombre,57.0,2,2024-12-17,2024-12-22,,6000000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+804,77669750,3752171298,Augusto,Bravo Nevado,Hombre,35.0,2,2024-07-14,2024-07-19,,6200000,Urgente,J45 - Asma,SUBSIDIADO
+805,3446499,2400244542,Inés,Barreda Barreda,Mujer,72.0,4,2024-12-13,2024-12-22,9.0,9600000,urgente,I50 - Insuficiencia cardíaca,Contributivo
+806,41870192,2058982440,Marcelino,Pagès Correa,Hombre,74.0,3,2024-02-21,2024-02-25,4.0,6600000,Urgente,K35 - Apendicitis aguda,Subsidiado
+807,77282128,5725038117,Juan Bautista,Campo Casas,Hombre,,2,2024-09-18,2024-09-20,2.0,3200000,Urgente,I20 - Angina de pecho,contributivo
+808,90912013,65857791,Oriana,Torrents Guerrero,Hombre,64.0,4,2024-10-05,2024-10-13,8.0,8000000,,K35 - Apendicitis aguda,Subsidiado
+809,50372847,4025070544,Félix,Moliner Olivera,Mujer,59.0,1,2024-05-03,2024-05-07,4.0,5000000,,K35 - Apendicitis aguda,Subsidiado
+810,53238057,9093803808,Américo,Ródenas Ferrando,Mujer,68.0,2,2024-05-03,2024-05-09,6.0,8000000,Urgente,I20 - Angina de pecho,Subsidiado
+811,95967649,9631864382,Sandalio,Almazán Pina,Otro,57.0,4,2024-09-07,2024-09-08,1.0,2000000,Urgente,I10 - Hipertensión esencial,Contributivo
+812,26619372,5173344564,Rita,Palma Cañizares,Hombre,38.0,0,2024-03-18,2024-03-22,4.0,6000000,Urgente,J18 - Neumonía,subsidiado
+813,10200074,3930438209,Víctor,Iglesia Ariza,Mujer,72.0,4,2024-06-13,2024-06-16,,4100000,Urgente,N39 - Infección urinaria,Subsidiado
+814,79470029,6666129822,Cayetana,Toro Río,Hombre,42.0,2,2024-10-21,2024-10-22,1.0,1700000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+815,92692697,7625774078,Marianela,Mariño Trillo,Hombre,44.0,2,2024-11-22,2024-11-26,4.0,5900000,Urgente,I50 - Insuficiencia cardíaca,contributivo
+816,84187049,5929897032,Carmelita,Falcó Estévez,Hombre,57.0,0,2024-11-03,2024-11-07,4.0,5100000,Programado,J45 - Asma,
+817,32594692,5837975356,Josep,Oliveras Morales,Hombre,39.0,0,2024-05-23,2024-05-29,6.0,6900000,Urgente,J45 - Asma,SUBSIDIADO
+818,13676961,5418365941,Ciríaco,Solís Llopis,Mujer,88.0,3,2024-07-24,2024-08-03,10.0,12700000,Urgente,J45 - Asma,SUBSIDIADO
+819,93575660,6430757004,Óscar,Cueto Bayón,Mujer,35.0,1,2024-04-02,2024-04-11,9.0,9100000,Urgente,I50 - Insuficiencia cardíaca,subsidiado
+820,40477742,7901585274,Cristian,Cortina Sancho,Mujer,29.0,0,2024-04-03,2024-04-06,3.0,4200000,Urgente,K35 - Apendicitis aguda,Subsidiado
+821,91839693,3927019611,Nilda,Marqués Lago,Hombre,33.0,1,2024-07-04,2024-07-09,5.0,6300000,Urgente,J45 - Asma,contributivo
+822,80585882,5887132821,Nadia,Pedraza Santiago,Mujer,81.0,4,2024-08-20,2024-08-27,7.0,8700000,Urgente,I20 - Angina de pecho,Subsidiado
+823,16247735,1777816561,Enrique,Abascal Velasco,Mujer,29.0,0,2024-10-02,2024-10-05,3.0,4800000,urgente,J18 - Neumonía,subsidiado
+824,75958181,9540299593,Domingo,Pinilla Esteve,Mujer,28.0,1,2024-05-22,2024-05-23,1.0,1900000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+825,5512205,626733282,Albano,Alfonso Pascual,Hombre,31.0,0,2024-12-22,2024-12-26,4.0,5100000,Urgente,I50 - Insuficiencia cardíaca,subsidiado
+826,46600900,9709950871,Bernabé,Haro Montes,Hombre,58.0,3,2024-12-06,2024-12-16,10.0,12100000,URGENTE,I20 - Angina de pecho,subsidiado
+827,71503856,6088451458,Paulina,Barroso Ponce,Mujer,69.0,3,2024-02-01,2024-02-02,1.0,2600000,Programado,J18 - Neumonía,SUBSIDIADO
+828,57495923,654602021,Mercedes,Falcó Zamora,Mujer,84.0,3,2024-12-05,2024-12-07,2.0,3300000,Urgente,J18 - Neumonía,
+829,88787891,1416760621,Iván,Valencia Correa,Hombre,71.0,3,2024-12-01,2024-12-04,,4800000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+830,49737181,3579265601,Eladio,Luna Mora,Mujer,32.0,2,2024-03-16,2024-03-18,2.0,2400000,Urgente,N39 - Infección urinaria,Subsidiado
+831,9255216,7236361108,Hector,Redondo Montserrat,Mujer,32.0,2,2024-06-17,2024-06-24,7.0,9100000,Urgente,I20 - Angina de pecho,Subsidiado
+832,67908907,7823677798,Palmira,Cano Bárcena,Mujer,52.0,1,2024-09-26,2024-09-29,3.0,3900000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+833,86911784,6402059279,Salvador,Zabala Batlle,Mujer,76.0,3,2024-12-09,2024-12-17,,10200000,Urgente,J45 - Asma,Contributivo
+834,45799273,9312492598,Ramón,Arranz Castilla,Mujer,67.0,2,2024-03-12,2024-03-17,5.0,7700000,urgente,K35 - Apendicitis aguda,subsidiado
+835,1698142,7709361138,Itziar,Escalona Angulo,Hombre,33.0,2,2024-03-24,2024-03-25,1.0,1500000,Urgente,J45 - Asma,SUBSIDIADO
+836,56379329,726990714,Eva María,Franch Campo,Mujer,,5,2024-05-24,2024-05-27,3.0,4900000,Urgente,J18 - Neumonía,Contributivo
+837,65793759,2097302637,Filomena,Torralba Feliu,Hombre,37.0,1,2024-02-25,2024-03-05,9.0,9100000,Urgente,J18 - Neumonía,Contributivo
+838,14165187,8842186844,Cesar,Cabeza Antón,Mujer,60.0,5,2024-01-11,2024-01-16,5.0,6200000,,E11 - Diabetes mellitus tipo 2,subsidiado
+839,58186525,3636537575,Dafne,Pont Trillo,Hombre,63.0,3,2024-07-09,2024-07-13,4.0,5000000,Urgente,J45 - Asma,Subsidiado
+840,48612055,2869963931,Delia,Zaragoza Jaén,Hombre,44.0,3,2024-09-03,2024-09-13,10.0,11800000,Urgente,N39 - Infección urinaria,Subsidiado
+841,85306788,3282810353,Juan Antonio,Avilés Pazos,Mujer,69.0,5,2024-05-23,2024-05-25,2.0,3300000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+842,61705170,1771211118,Yéssica,Giner Belda,Hombre,23.0,0,2024-10-21,2024-10-24,3.0,4400000,Urgente,I10 - Hipertensión esencial,subsidiado
+843,94933359,993998848,Odalis,Alberto Gallardo,Mujer,42.0,1,2024-02-16,2024-02-24,8.0,9300000,Urgente,N39 - Infección urinaria,Contributivo
+844,20534124,3037270171,Carlito,Tur Bernal,Otro,29.0,0,2024-08-17,2024-08-24,7.0,6500000,Urgente,J18 - Neumonía,contributivo
+845,58450095,39262289,Alfredo,Solé Barrera,Mujer,49.0,1,2024-06-02,2024-06-04,2.0,3000000,Urgente,J18 - Neumonía,Subsidiado
+846,23640702,6467073633,Berto,Paniagua Ricart,Mujer,43.0,0,2024-08-28,2024-09-03,6.0,8400000,Urgente,N39 - Infección urinaria,Subsidiado
+847,98488338,1602884797,Hector,Peinado Barragán,Mujer,63.0,5,2024-10-06,2024-10-09,3.0,4400000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+848,70027662,2095318649,Vanesa,Larrañaga Ángel,Otro,80.0,3,2024-06-06,2024-06-07,1.0,2100000,Urgente,K35 - Apendicitis aguda,Subsidiado
+849,87302916,8618334441,Flavia,Armas Bejarano,Hombre,35.0,0,2024-05-25,2024-05-29,4.0,4100000,Urgente,N39 - Infección urinaria,Subsidiado
+850,36249845,6664258343,Vicente,Mateu Bermejo,Hombre,41.0,3,2024-02-19,2024-03-05,15.0,17500000,Urgente,E11 - Diabetes mellitus tipo 2,contributivo
+851,82666356,50899550,Nydia,Garzón Vives,Mujer,38.0,2,2024-11-24,2024-12-03,9.0,8400000,Urgente,I20 - Angina de pecho,Subsidiado
+852,72232344,9769937079,Eduardo,Caballero Cadenas,Hombre,59.0,2,2024-02-08,2024-02-13,5.0,6400000,Urgente,E11 - Diabetes mellitus tipo 2,contributivo
+853,64893936,8493209128,Cirino,Guardia Pol,Mujer,61.0,4,2024-12-17,2024-12-18,1.0,2700000,programado,E11 - Diabetes mellitus tipo 2,Contributivo
+854,62394301,8663561486,Verónica,Falcó Ferrando,Hombre,43.0,3,2024-01-02,2024-01-03,1.0,2300000,Urgente,N39 - Infección urinaria,Contributivo
+855,58461818,7189916797,Rebeca,Zorrilla Ibarra,Mujer,32.0,0,2024-01-08,2024-01-13,5.0,6500000,Urgente,K35 - Apendicitis aguda,Subsidiado
+856,98116677,3907446848,Paula,Escamilla Ribes,Mujer,31.0,2,2024-01-16,2024-01-22,6.0,7500000,Urgente,J45 - Asma,Subsidiado
+857,79520597,9003599599,Nydia,Camacho Palma,Mujer,27.0,0,2024-06-13,2024-06-20,7.0,7400000,,J45 - Asma,SUBSIDIADO
+858,36023439,639509845,Natanael,Segarra Roldán,Mujer,72.0,3,2024-03-06,2024-03-13,7.0,8800000,URGENTE,N39 - Infección urinaria,Subsidiado
+859,43258988,9414276498,Donato,Calvet Diaz,Hombre,88.0,2,2024-01-18,2024-01-25,7.0,9200000,Urgente,J45 - Asma,Subsidiado
+860,32949803,6556078550,Aristides,Escribano Querol,Mujer,26.0,1,2024-12-24,2024-12-30,6.0,6700000,Urgente,I20 - Angina de pecho,Subsidiado
+861,11631697,7796286443,Íñigo,Vargas Nebot,Hombre,35.0,2,2024-11-14,2024-11-24,10.0,11800000,Urgente,K35 - Apendicitis aguda,Subsidiado
+862,37437115,1704657157,Aureliano,Cruz Salazar,Mujer,82.0,4,2024-04-11,2024-04-14,,4100000,Urgente,N39 - Infección urinaria,Subsidiado
+863,60505620,6038841740,Florentino,Ortuño Miró,Hombre,34.0,0,2024-04-14,2024-04-19,5.0,6200000,urgente,I10 - Hipertensión esencial,Contributivo
+864,32730796,2426665919,Ámbar,Morata Peral,Mujer,38.0,1,2024-12-11,2024-12-12,1.0,2300000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+865,62372114,5265016831,Consuela,Revilla Ros,Mujer,,1,2024-05-27,2024-05-30,3.0,4200000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+866,76483924,3641561499,Toribio,Morales Hernandez,Hombre,38.0,0,2024-02-19,2024-02-28,9.0,8000000,urgente,N39 - Infección urinaria,
+867,81917334,3262396395,Paca,Gargallo Perez,Mujer,66.0,4,2024-06-04,2024-06-11,7.0,8800000,URGENTE,N39 - Infección urinaria,CONTRIBUTIVO
+868,89682738,4696548897,Lourdes,Izquierdo Palomino,Mujer,77.0,1,2024-09-22,2024-09-23,1.0,2700000,Urgente,I10 - Hipertensión esencial,Subsidiado
+869,50867083,5923893872,Ruperto,Santamaria Salvà,Hombre,79.0,3,2024-01-06,2024-01-21,15.0,17100000,Urgente,J45 - Asma,Subsidiado
+870,45150390,6668801906,Anabel,Puerta Abad,Hombre,,4,2024-04-26,2024-05-01,5.0,4700000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+871,3852048,8830946410,Amor,Aramburu Luís,Mujer,73.0,4,2024-09-02,2024-09-07,5.0,6600000,,I20 - Angina de pecho,contributivo
+872,66344695,8630522755,Roberto,Alegre Villaverde,Mujer,37.0,0,2024-07-03,2024-07-06,3.0,4500000,URGENTE,N39 - Infección urinaria,Contributivo
+873,43622663,736086849,Isabela,Cepeda Matas,Hombre,69.0,4,2024-08-28,2024-08-31,3.0,3600000,Urgente,K35 - Apendicitis aguda,SUBSIDIADO
+874,24406132,7663837890,Teodosio,Agudo Mas,Mujer,64.0,5,2024-05-25,2024-05-30,5.0,6100000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+875,65437844,182758417,Francisco Jose,Girona Garmendia,Mujer,37.0,1,2024-05-11,2024-05-18,7.0,9500000,Programado,I20 - Angina de pecho,SUBSIDIADO
+876,28470244,6337225482,Paulino,Miranda Almeida,Mujer,32.0,2,2024-02-18,2024-02-24,6.0,7100000,Urgente,K35 - Apendicitis aguda,Subsidiado
+877,47623800,8909257076,Iker,Llorente Vidal,Hombre,69.0,2,2024-08-01,2024-08-04,3.0,3200000,Urgente,N39 - Infección urinaria,Contributivo
+878,34675473,8270323795,Violeta,Cortes Busquets,Hombre,45.0,2,2024-06-07,2024-06-09,2.0,3300000,urgente,I20 - Angina de pecho,Contributivo
+879,45679506,141312095,Glauco,Arellano Seguí,Mujer,57.0,3,2024-05-19,2024-05-21,2.0,2900000,Urgente,I10 - Hipertensión esencial,CONTRIBUTIVO
+880,37535126,1350701477,Leonardo,Pagès Costa,Mujer,79.0,5,2024-05-24,2024-06-02,9.0,11100000,Urgente,N39 - Infección urinaria,Subsidiado
+881,80014570,4129478722,Lino,Chacón Landa,Mujer,81.0,3,2024-10-08,2024-10-17,9.0,9900000,Programado,E11 - Diabetes mellitus tipo 2,Subsidiado
+882,94111289,2521300895,Victor Manuel,Pedraza Iborra,Hombre,66.0,2,2024-08-12,2024-08-18,6.0,6700000,urgente,I10 - Hipertensión esencial,SUBSIDIADO
+883,37080140,4625411308,Sol,Guijarro Jaén,Mujer,46.0,1,2024-10-16,2024-10-25,9.0,9200000,Urgente,I50 - Insuficiencia cardíaca,Contributivo
+884,74597009,9287653090,Eustaquio,Mas Briones,Mujer,30.0,0,2024-04-24,2024-04-28,4.0,4500000,Urgente,K35 - Apendicitis aguda,
+885,1362459,9622754804,Andrés,Pulido Gelabert,Hombre,45.0,3,2024-09-25,2024-10-03,8.0,10400000,Urgente,I20 - Angina de pecho,
+886,69340535,5719736115,Encarna,Berenguer Morata,Mujer,34.0,0,2024-04-05,2024-04-12,7.0,7500000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+887,25643159,3110258855,Estefanía,Tolosa Duran,Hombre,58.0,2,2024-01-14,2024-01-22,8.0,9000000,,I50 - Insuficiencia cardíaca,SUBSIDIADO
+888,11490777,8479654136,Encarnita,Torrents Bustos,Mujer,62.0,3,2024-01-08,2024-01-10,2.0,3500000,urgente,N39 - Infección urinaria,Subsidiado
+889,32394260,230624431,Jose Luis,Mas Arcos,Mujer,76.0,3,2024-09-12,2024-09-18,6.0,8200000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+890,96646785,1877279755,Flor,Pizarro Bermudez,Mujer,73.0,4,2024-11-27,2024-12-01,4.0,5000000,,J45 - Asma,subsidiado
+891,54549859,3602080228,Manolo,Barba Múñiz,Hombre,33.0,0,2024-12-01,2024-12-02,1.0,2500000,Urgente,I50 - Insuficiencia cardíaca,Contributivo
+892,65575808,7617360361,Andrea,Oliveras Rovira,Hombre,64.0,3,2024-06-01,2024-06-11,10.0,12700000,programado,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+893,74514489,8717175839,Sergio,Riera Carreño,Hombre,64.0,4,2024-11-13,2024-11-22,9.0,12100000,Urgente,K35 - Apendicitis aguda,Contributivo
+894,32255732,8558091177,Sofía,González Alberdi,Mujer,27.0,1,2024-12-24,2024-12-30,6.0,7400000,Urgente,K35 - Apendicitis aguda,Subsidiado
+895,92692016,2107125807,Carmelita,Piñeiro Balaguer,Hombre,84.0,1,2024-05-04,2024-05-06,2.0,3800000,Urgente,I20 - Angina de pecho,Contributivo
+896,63900135,8337145038,Alejandra,Mayol Zamora,Mujer,64.0,2,2024-04-17,2024-04-18,1.0,1600000,Urgente,J45 - Asma,Subsidiado
+897,86691619,1854772804,Benjamín,Armengol Montaña,Mujer,80.0,5,2024-04-14,2024-04-15,1.0,2400000,Urgente,E11 - Diabetes mellitus tipo 2,SUBSIDIADO
+898,95541870,7132531532,Chucho,Conde Morillo,Hombre,83.0,2,2024-08-02,2024-08-05,3.0,3000000,Urgente,I10 - Hipertensión esencial,Subsidiado
+899,65876924,6951902330,Lino,Vallés Giner,Mujer,77.0,3,2024-03-23,2024-03-30,7.0,7900000,Urgente,K35 - Apendicitis aguda,subsidiado
+900,60152969,3427620889,Rodolfo,Coronado Ayuso,Mujer,63.0,3,2024-05-03,2024-05-07,4.0,4800000,Urgente,N39 - Infección urinaria,Subsidiado
+901,2314351,3062777850,Emigdio,Pozo Salinas,Mujer,38.0,0,2024-01-08,2024-01-14,6.0,6700000,Urgente,J45 - Asma,Subsidiado
+902,12489409,4647317872,Simón,Vargas Bosch,Mujer,67.0,4,2024-09-14,2024-09-21,7.0,7800000,Urgente,I20 - Angina de pecho,CONTRIBUTIVO
+903,39491631,4957341287,Heraclio,Girona Rosales,Mujer,27.0,1,2024-12-12,2024-12-19,,7900000,Urgente,I10 - Hipertensión esencial,
+904,29742165,2722583581,Fernanda,Manjón Prado,Hombre,37.0,1,2024-08-24,2024-08-25,1.0,1600000,Urgente,K35 - Apendicitis aguda,Contributivo
+905,54277800,7471762590,Soledad,Colomer Catalán,Mujer,56.0,1,2024-02-19,2024-02-22,3.0,4200000,Urgente,K35 - Apendicitis aguda,CONTRIBUTIVO
+906,92850100,5655089949,Nayara,Navarrete Blanch,Hombre,79.0,5,2024-02-17,2024-02-23,6.0,8200000,Urgente,I20 - Angina de pecho,Subsidiado
+907,32655866,457632732,Begoña,Tamarit Avilés,Hombre,31.0,1,2024-03-21,2024-04-02,12.0,14500000,Urgente,I20 - Angina de pecho,Contributivo
+908,41098277,5618965944,Josep,Pujol Jáuregui,Mujer,36.0,1,2024-07-03,2024-07-13,10.0,11400000,Urgente,J18 - Neumonía,Subsidiado
+909,89115205,1158638062,Eva María,Blázquez Pujadas,Mujer,70.0,5,2024-10-19,2024-10-25,6.0,6300000,Urgente,N39 - Infección urinaria,Subsidiado
+910,78055069,569113257,Nidia,Valls Rovira,Mujer,32.0,0,2024-01-14,2024-01-24,10.0,12400000,Urgente,I50 - Insuficiencia cardíaca,subsidiado
+911,49529086,5099808894,Candelaria,Castrillo Cepeda,Hombre,73.0,3,2024-11-05,2024-11-11,6.0,6600000,Programado,I50 - Insuficiencia cardíaca,contributivo
+912,63519947,1752536389,Narcisa,Terrón Figuerola,Mujer,31.0,1,2024-04-10,2024-04-11,1.0,2600000,URGENTE,I10 - Hipertensión esencial,Subsidiado
+913,74285882,112794026,Alejo,Torrents Prats,Hombre,,2,2024-05-28,2024-06-04,7.0,9100000,Urgente,I50 - Insuficiencia cardíaca,SUBSIDIADO
+914,71259135,8989642546,Roberto,Ferrández Zamora,Mujer,24.0,1,2024-06-26,2024-07-06,10.0,12400000,Urgente,I10 - Hipertensión esencial,SUBSIDIADO
+915,46138336,1654584280,Merche,Hoz Herrera,Hombre,36.0,2,2024-07-23,2024-08-06,14.0,17400000,,J45 - Asma,contributivo
+916,57110154,5548442140,Leyre,Bellido Larrea,Mujer,87.0,4,2024-12-11,2024-12-14,3.0,4400000,Urgente,K35 - Apendicitis aguda,Subsidiado
+917,73871890,8953716239,Plinio,Ropero Morales,Mujer,26.0,0,2024-06-15,2024-06-17,2.0,4100000,Urgente,J18 - Neumonía,Contributivo
+918,44398056,4201221330,Alexandra,Borrás Capdevila,Hombre,29.0,1,2024-05-08,2024-05-16,8.0,7200000,Urgente,J18 - Neumonía,Contributivo
+919,47219209,9318287710,Candelas,Riba Roda,Hombre,39.0,2,2024-02-07,2024-02-13,6.0,8300000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+920,94335593,1635231601,Merche,Pavón Olivé,Mujer,36.0,2,2024-03-25,2024-03-31,6.0,7500000,Programado,N39 - Infección urinaria,contributivo
+921,60900658,4891280823,Amada,Farré Montes,Hombre,37.0,2,2024-10-04,2024-10-14,10.0,10000000,Urgente,K35 - Apendicitis aguda,Contributivo
+922,36361787,5588316233,Omar,Ocaña Amador,Mujer,38.0,1,2024-03-04,2024-03-12,8.0,9800000,URGENTE,I20 - Angina de pecho,Subsidiado
+923,41154241,2117951204,Ximena,Mayol Dominguez,Hombre,40.0,4,2024-03-15,2024-03-22,,8200000,,N39 - Infección urinaria,subsidiado
+924,33742830,271730355,Clarisa,Olmo Salamanca,Hombre,43.0,2,2024-08-11,2024-08-14,3.0,4300000,Urgente,N39 - Infección urinaria,Subsidiado
+925,30942292,6161887665,Ani,Coello Saez,Mujer,38.0,0,2024-07-04,2024-07-12,8.0,8600000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+926,16194158,6103588071,Modesto,Arribas Guillen,Mujer,65.0,4,2024-09-12,2024-09-14,2.0,3900000,Urgente,E11 - Diabetes mellitus tipo 2,subsidiado
+927,96809144,4625342041,Román,Flores Pereira,Mujer,74.0,3,2024-04-15,2024-04-21,6.0,7300000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+928,25848226,9649030850,Julián,Costa Boada,Hombre,86.0,5,2024-05-15,2024-05-20,5.0,5600000,Urgente,I20 - Angina de pecho,subsidiado
+929,42352128,6979466538,Geraldo,Capdevila Ballester,Hombre,33.0,1,2024-05-28,2024-05-29,1.0,2800000,Urgente,I10 - Hipertensión esencial,CONTRIBUTIVO
+930,16046365,5134840512,Amancio,Herrero Coloma,Mujer,58.0,3,2024-02-03,2024-02-09,6.0,7400000,Urgente,J45 - Asma,Subsidiado
+931,99707808,459442845,Melchor,Maestre Alcalá,Mujer,79.0,4,2024-03-26,2024-03-29,3.0,3000000,Programado,J18 - Neumonía,contributivo
+932,71922443,1308496151,Edelmira,Nuñez Cantero,Hombre,34.0,0,2024-11-10,2024-11-16,6.0,7800000,Urgente,I50 - Insuficiencia cardíaca,subsidiado
+933,92632184,8370133032,Isidoro,Mayol Sandoval,Otro,46.0,3,2024-12-23,2024-12-25,2.0,3800000,programado,N39 - Infección urinaria,SUBSIDIADO
+934,24850391,6958672456,Amor,Sotelo Alsina,Hombre,76.0,2,2024-10-02,2024-10-10,8.0,7600000,Urgente,K35 - Apendicitis aguda,Contributivo
+935,25708194,5710338189,Teresita,Mármol Gallart,Mujer,62.0,5,2024-04-27,2024-05-10,13.0,12800000,urgente,I20 - Angina de pecho,Subsidiado
+936,29042654,5732648420,Obdulia,Galán Frías,Mujer,34.0,1,2024-06-05,2024-06-07,2.0,3600000,Urgente,N39 - Infección urinaria,subsidiado
+937,99133838,4879617459,Melania,Zabala Jordán,Mujer,71.0,3,2024-02-23,2024-02-25,2.0,3700000,Urgente,J18 - Neumonía,subsidiado
+938,64988034,9967180936,Lisandro,Tomas Cid,Hombre,36.0,1,2024-04-12,2024-04-14,2.0,3900000,URGENTE,I10 - Hipertensión esencial,Subsidiado
+939,37111151,5157617867,Bautista,Alfaro Peñas,Mujer,40.0,3,2024-07-17,2024-07-21,4.0,6000000,Urgente,I10 - Hipertensión esencial,contributivo
+940,97252152,1349406919,Nydia,Zurita Arranz,Hombre,,5,2024-01-22,2024-01-28,6.0,6400000,Urgente,E11 - Diabetes mellitus tipo 2,Contributivo
+941,79133014,8437783771,Agustina,Jaume Domínguez,Mujer,39.0,1,2024-05-09,2024-05-16,7.0,8800000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+942,70415568,8455610447,Benita,Barrena Luz,Hombre,65.0,4,2024-03-01,2024-03-07,6.0,6200000,Urgente,N39 - Infección urinaria,Subsidiado
+943,80099897,9841694878,Pepito,Font Linares,Hombre,40.0,1,2024-07-28,2024-08-04,7.0,9500000,Urgente,K35 - Apendicitis aguda,subsidiado
+944,37983442,5336171726,María Fernanda,Baena Sola,Hombre,39.0,1,2024-08-18,2024-08-22,4.0,4800000,urgente,J18 - Neumonía,Subsidiado
+945,13492385,5910112521,Daniela,Aguirre Batlle,Mujer,58.0,2,2024-12-18,2024-12-21,3.0,4100000,Urgente,N39 - Infección urinaria,SUBSIDIADO
+946,26054020,5982610835,Joan,Pont Linares,Mujer,78.0,5,2024-04-04,2024-04-06,,3100000,Urgente,J45 - Asma,Subsidiado
+947,39761527,2421719519,Feliciano,Palomino Campos,Mujer,30.0,1,2024-08-04,2024-08-08,4.0,5500000,Programado,I10 - Hipertensión esencial,SUBSIDIADO
+948,30532273,2343459102,Cornelio,Aliaga Marco,Hombre,76.0,5,2024-03-04,2024-03-06,2.0,2800000,Urgente,N39 - Infección urinaria,
+949,48436637,2362657890,Jose Miguel,Pomares Guardia,Hombre,37.0,0,2024-01-02,2024-01-08,6.0,7000000,Urgente,J18 - Neumonía,Subsidiado
+950,24084236,3042413312,Gala,Pintor Verdugo,Hombre,49.0,1,2024-04-05,2024-04-07,2.0,3100000,,K35 - Apendicitis aguda,Contributivo
+951,40569669,2975704877,Jose Angel,Cabezas Moles,Hombre,,2,2024-04-27,2024-04-30,3.0,4400000,Urgente,J18 - Neumonía,subsidiado
+952,1898961,2144490990,Juan Pablo,Tormo Borja,Hombre,,0,2024-07-12,2024-07-21,9.0,9400000,Urgente,I50 - Insuficiencia cardíaca,CONTRIBUTIVO
+953,95028632,7015124886,Bibiana,Estrada Flor,Mujer,34.0,0,2024-11-21,2024-12-01,10.0,10700000,Urgente,E11 - Diabetes mellitus tipo 2,contributivo
+954,71690398,5334440295,Olalla,Valle Seco,Hombre,32.0,0,2024-11-03,2024-11-13,10.0,10200000,Urgente,J18 - Neumonía,
+955,16989677,2828935922,Máxima,Almeida Ariño,Mujer,75.0,5,2024-10-19,2024-10-23,4.0,4500000,Urgente,I20 - Angina de pecho,Subsidiado
+956,36817443,7366884200,Yéssica,Huertas Ávila,Mujer,22.0,0,2024-05-27,2024-05-30,3.0,4300000,Urgente,N39 - Infección urinaria,Contributivo
+957,6109013,7684026200,Maite,Mayol Múgica,Hombre,57.0,2,2024-02-01,2024-02-08,7.0,8200000,urgente,E11 - Diabetes mellitus tipo 2,contributivo
+958,7318358,4612645121,Basilio,Trillo Pozuelo,Mujer,57.0,1,2024-02-07,2024-02-09,2.0,3100000,Urgente,K35 - Apendicitis aguda,Contributivo
+959,74270583,7265834251,María Cristina,Crespo Alfaro,Mujer,77.0,5,2024-11-15,2024-11-23,8.0,9000000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+960,39209916,2334938378,Isidoro,Oliver Ortiz,Hombre,48.0,4,2024-03-03,2024-03-06,3.0,4400000,programado,J18 - Neumonía,CONTRIBUTIVO
+961,93605777,364994639,Coral,Padilla Mate,Mujer,,0,2024-06-04,2024-06-08,4.0,5700000,Urgente,J18 - Neumonía,Subsidiado
+962,16948946,3302632494,Raquel,Guzman Vallejo,Hombre,66.0,4,2024-01-15,2024-01-23,8.0,8400000,URGENTE,I20 - Angina de pecho,Contributivo
+963,85613415,1524751277,Nayara,Llorens Barrio,Mujer,35.0,2,2024-01-06,2024-01-07,1.0,2400000,Urgente,I10 - Hipertensión esencial,contributivo
+964,65884623,8780187424,Román,Jiménez Pombo,Mujer,44.0,2,2024-10-14,2024-10-17,3.0,4600000,urgente,N39 - Infección urinaria,Subsidiado
+965,13769080,7527715219,Pedro,Andreu Losada,Mujer,58.0,2,2024-12-13,2024-12-19,6.0,6400000,Urgente,I20 - Angina de pecho,contributivo
+966,1646234,1848792488,Primitiva,Gomis Cordero,Mujer,70.0,3,2024-08-01,2024-08-08,7.0,7100000,Urgente,J18 - Neumonía,Subsidiado
+967,77049595,45302356,Ramona,Noguera Pozo,Hombre,77.0,4,2024-07-22,2024-07-28,6.0,7300000,Urgente,J45 - Asma,CONTRIBUTIVO
+968,38163378,1111272861,Fulgencio,Cervantes Bonilla,Mujer,39.0,0,2024-07-06,2024-07-10,4.0,5900000,Urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+969,63001391,2470617247,Gabriel,Piña Viñas,Hombre,69.0,4,2024-06-07,2024-06-15,8.0,8400000,URGENTE,I20 - Angina de pecho,CONTRIBUTIVO
+970,64251933,6209571615,Jordi,Gordillo Rincón,Mujer,43.0,3,2024-03-09,2024-03-11,2.0,2800000,Urgente,I20 - Angina de pecho,Subsidiado
+971,59118721,5974875750,Dora,Hernandez Corominas,Hombre,40.0,4,2024-05-15,2024-05-17,2.0,3600000,Urgente,N39 - Infección urinaria,Contributivo
+972,45728776,2149484176,Maximino,Roldan Miguel,Hombre,74.0,4,2024-03-02,2024-03-08,6.0,7500000,urgente,J45 - Asma,SUBSIDIADO
+973,24744872,4400463094,Noelia,Mur Sanchez,Hombre,29.0,0,2024-10-20,2024-10-22,2.0,3000000,Urgente,J45 - Asma,subsidiado
+974,6895666,4744003377,Malena,Catalá Gabaldón,Mujer,20.0,0,2024-10-08,2024-10-21,13.0,14100000,Urgente,J45 - Asma,
+975,33887075,4130589741,José,Chacón Francisco,Mujer,73.0,3,2024-11-10,2024-11-13,,4400000,Urgente,N39 - Infección urinaria,Contributivo
+976,64119726,4903457537,Plinio,Cervera Mendizábal,Mujer,81.0,2,2024-08-14,2024-08-22,8.0,9200000,Urgente,I10 - Hipertensión esencial,Subsidiado
+977,15312516,5634526139,Xiomara,Zabaleta Cepeda,Hombre,66.0,4,2024-09-16,2024-09-18,2.0,3100000,Urgente,J18 - Neumonía,SUBSIDIADO
+978,8770247,9478422976,Domitila,Ropero Codina,Mujer,42.0,1,2024-01-03,2024-01-14,11.0,10700000,programado,J18 - Neumonía,
+979,53782042,6369118672,Amaro,Cruz Moll,Hombre,84.0,1,2024-05-13,2024-05-18,5.0,4800000,Urgente,K35 - Apendicitis aguda,CONTRIBUTIVO
+980,66001106,2045102506,Juliana,Bauzà Carrasco,Hombre,,3,2024-03-14,2024-03-17,3.0,4600000,Urgente,N39 - Infección urinaria,Subsidiado
+981,9943140,7287542751,Juanita,Espinosa Moll,Mujer,84.0,3,2024-04-21,2024-04-25,4.0,4000000,Programado,I10 - Hipertensión esencial,Subsidiado
+982,77446468,1369705770,Pastor,Coello Andreu,Hombre,40.0,0,2024-09-08,2024-09-11,3.0,5000000,Urgente,K35 - Apendicitis aguda,Subsidiado
+983,84482772,1289624427,Clementina,Montalbán Riba,Mujer,68.0,4,2024-11-26,2024-11-30,4.0,4100000,Urgente,K35 - Apendicitis aguda,subsidiado
+984,92133896,494287462,Cintia,Reina Mateos,Mujer,51.0,2,2024-09-26,2024-09-28,2.0,2400000,Urgente,K35 - Apendicitis aguda,Subsidiado
+985,7195288,7942167666,Erasmo,Salazar Llanos,Hombre,33.0,2,2024-01-13,2024-01-16,3.0,3700000,Urgente,N39 - Infección urinaria,subsidiado
+986,20364454,2783009621,Chus,Cornejo Expósito,Hombre,,1,2024-12-12,2024-12-20,8.0,8400000,Urgente,I50 - Insuficiencia cardíaca,contributivo
+987,20024960,9637532723,Godofredo,Campillo Catalá,Hombre,52.0,1,2024-08-18,2024-08-23,5.0,6400000,Urgente,K35 - Apendicitis aguda,Contributivo
+988,75543051,9339205507,Piedad,Esteban Amo,Mujer,66.0,3,2024-08-12,2024-08-14,2.0,3700000,Urgente,I20 - Angina de pecho,SUBSIDIADO
+989,40780112,4982744929,Nélida,Lasa Gual,Mujer,35.0,0,2024-10-17,2024-10-21,4.0,4800000,urgente,E11 - Diabetes mellitus tipo 2,Subsidiado
+990,11432787,6699500243,Socorro,Guerra Gual,Hombre,73.0,4,2024-06-13,2024-06-23,10.0,11200000,Urgente,I20 - Angina de pecho,Contributivo
+991,33311626,8411532909,América,Amo Palomar,Hombre,68.0,4,2024-05-06,2024-05-09,3.0,4700000,Programado,I20 - Angina de pecho,Subsidiado
+992,15898299,792214339,Candela,Bernad Tapia,Hombre,84.0,3,2024-01-11,2024-01-13,2.0,3400000,Urgente,J18 - Neumonía,Contributivo
+993,74903294,6150970643,Martin,Cañete Vallés,Mujer,61.0,2,2024-10-08,2024-10-15,7.0,7800000,Urgente,I50 - Insuficiencia cardíaca,Subsidiado
+994,55857931,8715314442,Gabino,Somoza Pereira,Hombre,69.0,1,2024-01-26,2024-01-27,1.0,2000000,Urgente,N39 - Infección urinaria,subsidiado
+995,81378577,5142469284,Amor,Espejo Ponce,Mujer,29.0,0,2024-05-02,2024-05-06,4.0,5300000,Programado,K35 - Apendicitis aguda,Subsidiado
+996,80010790,6838460497,Anselmo,Tur Sáez,Mujer,54.0,3,2024-08-17,2024-08-27,10.0,9800000,Urgente,J18 - Neumonía,Contributivo
+997,83002706,1670036982,Cipriano,Cervantes Céspedes,Hombre,61.0,3,2024-06-25,2024-06-29,4.0,5700000,Urgente,I10 - Hipertensión esencial,Subsidiado
+998,30291214,3026816435,Basilio,Ferrando Gonzalo,Mujer,67.0,3,2024-10-08,2024-10-16,8.0,9400000,,I10 - Hipertensión esencial,SUBSIDIADO
+999,70138498,5178804925,Joan,Antúnez Real,Hombre,31.0,0,2024-03-04,2024-03-06,2.0,3200000,Urgente,N39 - Infección urinaria,Subsidiado
+1000,51053474,8858643842,Eligia,Alcolea Lerma,Mujer,29.0,1,2024-04-22,2024-04-26,4.0,4500000,Programado,J18 - Neumonía,Contributivo
